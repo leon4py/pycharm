@@ -8,32 +8,18 @@
         <mark key="]" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.ui/src/main/java/com/foresee/ftcsp/gateway/rest/GatewayUIApplication.java" timestamp="1494491598372" />
-      <file name="/Dummy.txt" timestamp="1494485139392">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/ExceptionUtil.java" timestamp="1494488466783">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-      </file>
       <file name="/a.dummy" timestamp="1494488392298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/pom.xml" timestamp="1494488181070" />
-      <file name="D:/foresee/base/pom.xml" timestamp="1494492051139" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/page/PageSqlSessionTemplate.java" timestamp="1494484762323" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494486611671" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1494487128472">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="45" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/WorkFlowApplication.java" timestamp="1494491547281" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.config.server/src/main/resources/config/application.properties" timestamp="1494483107529" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/BodyComsumerInterceptor.java" timestamp="1494486506946" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1494497004186">
+        <mark key="[" line="130" column="42" />
+        <mark key="]" line="130" column="41" />
+        <mark key="^" line="130" column="41" />
+        <mark key="." line="130" column="41" />
+      </file>
       <file name="D:/foresee/base/setEnv.bat" timestamp="1494483983239">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="3" column="137" />
@@ -45,45 +31,100 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1494473124289">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/GlobalExceptionHandler.java" timestamp="1494494989997">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1494485441118" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/GlobalExceptionHandler.java" timestamp="1494488655508">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1494486473254">
-        <mark key="[" line="61" column="63" />
-        <mark key="]" line="61" column="43" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1494495143965">
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="37" />
         <mark key="^" line="61" column="43" />
-        <mark key="." line="61" column="43" />
+        <mark key="." line="71" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494491397200">
+      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.ui/src/main/java/com/foresee/ftcsp/gateway/rest/GatewayUIApplication.java" timestamp="1494492639581" />
+      <file name="/Dummy.txt" timestamp="1494497464728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/ExceptionUtil.java" timestamp="1494488466783">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="D:/foresee/base/pom.xml" timestamp="1494492051139" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494493174326">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1494495497194">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.config.server/src/main/resources/config/application.properties" timestamp="1494483107529" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.4.RELEASE/spring-webmvc-4.3.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java" timestamp="1494494565253" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/filter/RepeatableRequestFilter.java" timestamp="1494496616259" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494497794638" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/BodyComsumerInterceptor.java" timestamp="1494496868273">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="31" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1494497064528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1494497391898">
+        <mark key="[" line="112" column="62" />
+        <mark key="]" line="112" column="52" />
+        <mark key="^" line="112" column="52" />
+        <mark key="." line="112" column="52" />
+      </file>
+      <file name="/fragment.java" timestamp="1494496907017">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" timestamp="1494493696907" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShCb2R5Q29tc3VtZXJJbnRlcmNlcHRvci5jbGFzcy5nZXRDYW5vbmljYWxOYW1lKCksIGpzb25PYmplY3QpOwogICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xvc2VVdGlsLmNsb3NlUXVpZXRseShyZXNwb25zZS5nZXRXcml0ZXIoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckVudW0uVU5LTk9XTl9FUlJPUgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkuY2xvc2UoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgQFJlc3BvbnNlU3RhdHVzKGNvZGUgPSBIdHRwU3RhdHVzLk9LLCB2YWx1ZSA9IEh0dHBTdGF0dXMuT0ssIHJlYXNvbiA9ICLOtNaq0uyzoyIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdkNvbnRhaW5lci5zZXRSZXF1ZXN0SGFuZGxlZCh0cnVlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS5jbG9zZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
