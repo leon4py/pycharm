@@ -8,6 +8,7 @@
         <mark key="]" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
+      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.ui/src/main/java/com/foresee/ftcsp/gateway/rest/GatewayUIApplication.java" timestamp="1494491598372" />
       <file name="/Dummy.txt" timestamp="1494485139392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,6 +22,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/pom.xml" timestamp="1494488181070" />
+      <file name="D:/foresee/base/pom.xml" timestamp="1494492051139" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/page/PageSqlSessionTemplate.java" timestamp="1494484762323" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494486611671" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1494487128472">
@@ -29,7 +31,7 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/WorkFlowApplication.java" timestamp="1494484566482" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/WorkFlowApplication.java" timestamp="1494491547281" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.config.server/src/main/resources/config/application.properties" timestamp="1494483107529" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/BodyComsumerInterceptor.java" timestamp="1494486506946" />
       <file name="D:/foresee/base/setEnv.bat" timestamp="1494483983239">
@@ -37,7 +39,12 @@
         <mark key="]" line="3" column="137" />
         <mark key="." line="3" column="137" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1494484876440" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1494491495292">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1494473124289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,6 +61,9 @@
         <mark key="^" line="61" column="43" />
         <mark key="." line="61" column="43" />
       </file>
+      <file name="/fragment.java" timestamp="1494491397200">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -61,7 +71,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getSimpleStackTrace</text>
+        <text>:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -73,7 +83,7 @@
         <text encoding="base64">ICAgICAgICBFcnJvckVudW0uVU5LTk9XTl9FUlJPUgo=</text>
       </register>
       <register name="-" type="4">
-        <text>getSimpleStackTrace</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
