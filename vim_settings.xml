@@ -11,8 +11,12 @@
       <file name="/a.dummy" timestamp="1494503897908">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/config/FastJsonConfig.java" timestamp="1494553188547" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowConfig.java" timestamp="1494504109493" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1494506735623" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMdel.java" timestamp="1494553898210">
+        <mark key="[" line="11" column="17" />
+      </file>
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1494551901101" />
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executor.java" timestamp="1494551912847" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1494551486846">
@@ -29,6 +33,7 @@
       <file name="/Dummy.txt" timestamp="1494551625111">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/TaskInstance.java" timestamp="1494554037372" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1494551577840">
         <mark key="[" line="17" column="16" />
       </file>
@@ -44,17 +49,26 @@
         <mark key="." line="144" column="17" />
         <mark key="^" line="144" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1494553293117" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/serializer/SerializerFeature.java" timestamp="1494553266578" />
       <file name="/TaskController.java" timestamp="1494505358936" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494551085951">
-        <mark key="[" line="115" column="71" />
-        <mark key="]" line="104" column="54" />
-        <mark key="." line="104" column="54" />
-        <mark key="^" line="104" column="54" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494554342204">
+        <mark key="[" line="140" column="54" />
+        <mark key="]" line="140" column="27" />
+        <mark key="." line="140" column="27" />
+        <mark key="^" line="140" column="27" />
       </file>
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java" timestamp="1494551921266" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" timestamp="1494506977449">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/AbstTaskInstanceModel.java" timestamp="1494553988182" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskModel.java" timestamp="1494554082010">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="/Clipboard.txt" timestamp="1494497064528">
         <mark key="[" line="0" column="0" />
@@ -77,8 +91,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlLmV4ZWN1dGUobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlLmV4ZWN1dGUobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UuZXhlY3V0ZSgoKS0+IHsKICAgICAgICAgICAgRnRjc3BSZXN0Q2xpZW50IHJlc3RDbGllbnQgPSBuZXcgRnRjc3BSZXN0Q2xpZW50KCIwMDAxMDYiKTsKICAgICAgICAgICAgU3RyaW5nIHVybCA9Imh0dHA6Ly8xMjcuMC4wLjE6ODUxMC9pbm5lci90YXNrU2VydmljZS9jb21wbGV0ZSI7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICAgICAgbWFwLnB1dCgidWlkIiwiMzk4NmY1MGUyY2NiNDc3OWI5MjcwNDhlYWY3NjQyODciKTsKICAgICAgICAgICAgbWFwLnB1dCgidGFza0lkIiwiMjE1YWM2ZjQtZDM2OS00NmFhLWFkZjQtNTljYzAyNzFhMjE5Iik7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFyID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICAgICAgdmFyLnB1dCgiYWNjb3VudFVzZXJJZCIsImM5YTc2MWM2MmU3NTRjYmY5NjJhYTgzNGFiMjExOGRjIik7CiAgICAgICAgICAgIHZhci5wdXQoInVpZCIsIjM5ODZmNTBlMmNjYjQ3NzliOTI3MDQ4ZWFmNzY0Mjg3Iik7CiAgICAgICAgICAgIG1hcC5wdXQoInZhcnMiLHZhcik7CiAgICAgICAgICAgIEdzb24gICBnc29uICAgPSBuZXcgR3NvbkJ1aWxkZXIoKS5kaXNhYmxlSHRtbEVzY2FwaW5nKCkuY3JlYXRlKCk7CiAgICAgICAgICAgIFN0cmluZyBkYXRhID1nc29uLnRvSnNvbihtYXApOwogICAgICAgICAgICBpZiAocmVzdENsaWVudC5wb3N0KHVybCwgZGF0YSkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigit7W72NDFz6LB0LHtPT09IityZXN0Q2xpZW50LmdldFJlc3BvbnNlQ29udGVudCgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoK</text>
@@ -105,7 +119,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChUYXNrSW5zdGFuY2UgdGFzayA6IHRhc2tzKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>error</text>
       </register>
     </registers>
     <search>
