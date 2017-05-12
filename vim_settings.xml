@@ -17,17 +17,9 @@
       <file name="/a.dummy" timestamp="1494558686700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/config/FastJsonConfig.java" timestamp="1494553188547" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowConfig.java" timestamp="1494504109493" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1494506735623" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMdel.java" timestamp="1494553898210">
         <mark key="[" line="11" column="17" />
       </file>
-      <file name="D:/foresee/base/workflow/pom.xml" timestamp="1494557661475" />
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1494551901101" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/ProcessServiceImpl.java" timestamp="1494557508783" />
-      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.pom" timestamp="1494557619164" />
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executor.java" timestamp="1494551912847" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1494551486846">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="30" />
@@ -42,7 +34,6 @@
       <file name="/Dummy.txt" timestamp="1494557612615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/TaskInstance.java" timestamp="1494554037372" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1494557700239">
         <mark key="[" line="17" column="16" />
       </file>
@@ -58,17 +49,13 @@
         <mark key="." line="144" column="17" />
         <mark key="^" line="144" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1494553293117" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/serializer/SerializerFeature.java" timestamp="1494553266578" />
-      <file name="/TaskController.java" timestamp="1494505358936" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BPMN2Test.java" timestamp="1494575182302" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494557871029">
         <mark key="[" line="140" column="54" />
         <mark key="]" line="140" column="27" />
         <mark key="." line="140" column="27" />
         <mark key="^" line="140" column="27" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java" timestamp="1494551921266" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/AbstTaskInstanceModel.java" timestamp="1494553988182" />
       <file name="/Clipboard.txt" timestamp="1494497064528">
         <mark key="[" line="0" column="0" />
       </file>
