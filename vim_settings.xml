@@ -30,9 +30,11 @@
         <mark key="." line="144" column="17" />
         <mark key="^" line="144" column="17" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494836252312" />
-      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.service/src/main/java/com/foresee/ftcsp/gateway/service/impl/ApiFieldServiceImpl.java" timestamp="1494830168385" />
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/A.java" timestamp="1494830505031" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494837135135">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/ValidationException.java" timestamp="1494830739287">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="7" />
@@ -54,7 +56,6 @@
         <mark key="^" line="112" column="52" />
         <mark key="." line="112" column="52" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuffer.java" timestamp="1494831684777" />
       <file name="/fragment.java" timestamp="1494555069025">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,35 +65,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQodGV4dCwgIigiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHNwbGl0WzBdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy/F0LbPtKu13bLOyv3W0MrHt/G05tTao6yyosXQts+yzsr9yse38dLRtObU2gogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuYXBwZW5kKHZhcnMuZ2V0KHMpICsgIiAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICogVE9ETwogKiA8L3ByZT4KICoKICogQGF1dGhvciBjaGVud2VubG9uZyBjaGVud2VubG9uZ0Bmb3Jlc2VlLmNvbS5jbgogKiBAdmVyc2lvbiAxLjAKICogQGRhdGUgJHtZRUFSfcTqJHtNT05USH3UwiR7REFZfcjV</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvcmdVc2VyU2VydmljZS5nZXRDbGFzcygpLmdldEFubm90YXRlZEludGVyZmFjZXMoKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>重复登录过滤器检查。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcmdVc2VyU2VydmljZS5nZXRDbGFzcygpLmdldEFubm90YXRlZEludGVyZmFjZXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2Rlcy5zdHJlYW0oKS5tYXAoRWxlbWVudDo6Z2V0VGV4dFRyaW0pLmZpbHRlcihTdHJpbmdVdGlsczo6aXNOb3RCbGFuaykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAodGV4dCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSBTdHJpbmdVdGlscy5zcGxpdCh0ZXh0LCAiKCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzcGxpdFswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL8XQts+0q7Xdss7K/dbQyse38bTm1NqjrLKixdC2z7LOyv3Kx7fx0tG05tTaCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCh2YXJzLmdldChzKSArICIgIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLnNwbGl0KHRleHQsICIoIikgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3JTZXJ2aWNlLmV4ZWN1dGUobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UuZXhlY3V0ZSgoKS0+IHsKICAgICAgICAgICAgRnRjc3BSZXN0Q2xpZW50IHJlc3RDbGllbnQgPSBuZXcgRnRjc3BSZXN0Q2xpZW50KCIwMDAxMDYiKTsKICAgICAgICAgICAgU3RyaW5nIHVybCA9Imh0dHA6Ly8xMjcuMC4wLjE6ODUxMC9pbm5lci90YXNrU2VydmljZS9jb21wbGV0ZSI7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICAgICAgbWFwLnB1dCgidWlkIiwiMzk4NmY1MGUyY2NiNDc3OWI5MjcwNDhlYWY3NjQyODciKTsKICAgICAgICAgICAgbWFwLnB1dCgidGFza0lkIiwiMjE1YWM2ZjQtZDM2OS00NmFhLWFkZjQtNTljYzAyNzFhMjE5Iik7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFyID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICAgICAgdmFyLnB1dCgiYWNjb3VudFVzZXJJZCIsImM5YTc2MWM2MmU3NTRjYmY5NjJhYTgzNGFiMjExOGRjIik7CiAgICAgICAgICAgIHZhci5wdXQoInVpZCIsIjM5ODZmNTBlMmNjYjQ3NzliOTI3MDQ4ZWFmNzY0Mjg3Iik7CiAgICAgICAgICAgIG1hcC5wdXQoInZhcnMiLHZhcik7CiAgICAgICAgICAgIEdzb24gICBnc29uICAgPSBuZXcgR3NvbkJ1aWxkZXIoKS5kaXNhYmxlSHRtbEVzY2FwaW5nKCkuY3JlYXRlKCk7CiAgICAgICAgICAgIFN0cmluZyBkYXRhID1nc29uLnRvSnNvbihtYXApOwogICAgICAgICAgICBpZiAocmVzdENsaWVudC5wb3N0KHVybCwgZGF0YSkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigit7W72NDFz6LB0LHtPT09IityZXN0Q2xpZW50LmdldFJlc3BvbnNlQ29udGVudCgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgT3JnVXNlclNlcnZpY2VJbXBsIG9yZ1VzZXJTZXJ2aWNlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImFiYyIsICLO0sPHtcS5ysrCIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImFiYyIsICJEb25lIik7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICogVE9ETwogKiA8L3ByZT4KICoKICogQGF1dGhvciBjaGVud2VubG9uZyBjaGVud2VubG9uZ0Bmb3Jlc2VlLmNvbS5jbgogKiBAdmVyc2lvbiAxLjAKICogQGRhdGUgJHtZRUFSfcTqJHtNT05USH3UwiR7REFZfcjV</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGdGNzcFJlc3RDbGllbnQgcmVzdENsaWVudCA9IG5ldyBGdGNzcFJlc3RDbGllbnQoIjAwMDEwNiIpOwogICAgICAgIFN0cmluZyB1cmwgPSJodHRwOi8vMTI3LjAuMC4xOjg1MTAvaW5uZXIvdGFza1NlcnZpY2UvY29tcGxldGUiOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICBtYXAucHV0KCJ1aWQiLCIzOTg2ZjUwZTJjY2I0Nzc5YjkyNzA0OGVhZjc2NDI4NyIpOwogICAgICAgIG1hcC5wdXQoInRhc2tJZCIsIjIxNWFjNmY0LWQzNjktNDZhYS1hZGY0LTU5Y2MwMjcxYTIxOSIpOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFyID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICB2YXIucHV0KCJhY2NvdW50VXNlcklkIiwiYzlhNzYxYzYyZTc1NGNiZjk2MmFhODM0YWIyMTE4ZGMiKTsKICAgICAgICB2YXIucHV0KCJ1aWQiLCIzOTg2ZjUwZTJjY2I0Nzc5YjkyNzA0OGVhZjc2NDI4NyIpOwogICAgICAgIG1hcC5wdXQoInZhcnMiLHZhcik7CiAgICAgICAgR3NvbiAgIGdzb24gICA9IG5ldyBHc29uQnVpbGRlcigpLmRpc2FibGVIdG1sRXNjYXBpbmcoKS5jcmVhdGUoKTsKICAgICAgICBTdHJpbmcgZGF0YSA9Z3Nvbi50b0pzb24obWFwKTsKICAgICAgICBpZiAocmVzdENsaWVudC5wb3N0KHVybCwgZGF0YSkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCK3tbvY0MXPosHQse09PT0iK3Jlc3RDbGllbnQuZ2V0UmVzcG9uc2VDb250ZW50KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2Rlcy5zdHJlYW0oKS5tYXAoRWxlbWVudDo6Z2V0VGV4dFRyaW0pLmZpbHRlcihTdHJpbmdVdGlsczo6aXNOb3RCbGFuaykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAodGV4dCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSBTdHJpbmdVdGlscy5zcGxpdCh0ZXh0LCAiKCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzcGxpdFswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL8XQts+0q7Xdss7K/dbQyse38bTm1NqjrLKixdC2z7LOyv3Kx7fx0tG05tTaCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCh2YXJzLmdldChzKSArICIgIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBSZXNwb25zZXMubmV3U3VjY2VzcyhyZXN1bHRCb2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLnNwbGl0KHRleHQsICIoIikgCg==</text>
       </register>
       <register name="-" type="4">
         <text>重复登录过滤器检查。</text>
