@@ -30,10 +30,15 @@
         <mark key="." line="144" column="17" />
         <mark key="^" line="144" column="17" />
       </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BPMN2Test.java" timestamp="1494837320682">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494837135135">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/ValidationException.java" timestamp="1494830739287">
         <mark key="[" line="29" column="8" />
@@ -66,34 +71,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQodGV4dCwgIigiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IHNwbGl0WzBdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy/F0LbPtKu13bLOyv3W0MrHt/G05tTao6yyosXQts+yzsr9yse38dLRtObU2gogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuYXBwZW5kKHZhcnMuZ2V0KHMpICsgIiAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmdVc2VyU2VydmljZS5nZXRDbGFzcygpLmdldEFubm90YXRlZEludGVyZmFjZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQXBpQ2xpZW50LmV4ZWMoKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmdVc2VyU2VydmljZS5nZXRDbGFzcygpLmdldEFubm90YXRlZEludGVyZmFjZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQXBpQ2xpZW50LmV4ZWMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmdVc2VyU2VydmljZS5nZXRDbGFzcygpLmdldEFubm90YXRlZEludGVyZmFjZXMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3JnVXNlclNlcnZpY2VJbXBsIG9yZ1VzZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT3JnVXNlclNlcnZpY2VJbXBsIG9yZ1VzZXJTZXJ2aWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImFiYyIsICLO0sPHtcS5ysrCIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImFiYyIsICLO0sPHtcS5ysrCIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImFiYyIsICJEb25lIik7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICogVE9ETwogKiA8L3ByZT4KICoKICogQGF1dGhvciBjaGVud2VubG9uZyBjaGVud2VubG9uZ0Bmb3Jlc2VlLmNvbS5jbgogKiBAdmVyc2lvbiAxLjAKICogQGRhdGUgJHtZRUFSfcTqJHtNT05USH3UwiR7REFZfcjV</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2Rlcy5zdHJlYW0oKS5tYXAoRWxlbWVudDo6Z2V0VGV4dFRyaW0pLmZpbHRlcihTdHJpbmdVdGlsczo6aXNOb3RCbGFuaykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAodGV4dCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSBTdHJpbmdVdGlscy5zcGxpdCh0ZXh0LCAiKCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzcGxpdFswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL8XQts+0q7Xdss7K/dbQyse38bTm1NqjrLKixdC2z7LOyv3Kx7fx0tG05tTaCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCh2YXJzLmdldChzKSArICIgIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLnNwbGl0KHRleHQsICIoIikgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2Rlcy5zdHJlYW0oKS5tYXAoRWxlbWVudDo6Z2V0VGV4dFRyaW0pLmZpbHRlcihTdHJpbmdVdGlsczo6aXNOb3RCbGFuaykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAodGV4dCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSBTdHJpbmdVdGlscy5zcGxpdCh0ZXh0LCAiKCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwbGl0ID0gU3RyaW5nVXRpbHMuc3BsaXQoc3BsaXRbMV0sICIpIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBzcGxpdFswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL8XQts+0q7Xdss7K/dbQyse38bTm1NqjrLKixdC2z7LOyv3Kx7fx0tG05tTaCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlcXVlc3RWYXJzS2V5U2V0LmNvbnRhaW5zKHMpICYmICghZGJWYXJzS2V5U2V0LmNvbnRhaW5zKHMpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCh2YXJzLmdldChzKSArICIgIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>重复登录过滤器检查。</text>
