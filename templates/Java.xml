@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="tpvt" value="@Test&#10;public void test$METHOD_NAME$() throws Exception {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
