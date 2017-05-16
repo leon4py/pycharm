@@ -14,11 +14,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1494911362775">
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1494914447275">
         <mark key="[" line="43" column="80" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="76" />
-        <mark key="." line="45" column="0" />
+        <mark key="]" line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+        <mark key="." line="45" column="43" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/monitor/PrometheusMetricWriter.java" timestamp="1494898587524">
         <mark key="[" line="41" column="31" />
@@ -88,10 +88,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494907122414">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1494914506286">
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="99" column="41" />
+        <mark key="." line="99" column="41" />
+        <mark key="^" line="98" column="42" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/ValidationException.java" timestamp="1494830739287">
         <mark key="[" line="29" column="8" />
@@ -110,13 +111,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlTGluZXMuYWRkKGxpbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIkVYVDMiLCB0YXNrLmdldEV4dDMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdFJlc3BvbnNlUmVzcG9uc2VFbnRpdHkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdFJlc3BvbnNlUmVzcG9uc2VFbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIkVYVDMiLCB0YXNrLmdldEV4dDMoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhcmdzLnB1dCgicHJvY2Vzc0luc3RJZCIsICI5NWYzM2UzMC04ZmRmLTQ4NTMtYWNlNS03NDFjMjJkNTM4OWIiKTsK</text>
@@ -143,7 +144,7 @@
         <text encoding="base64">ICAgICAgICB0cmFjZXMgPSBFeGNlcHRpb25VdGlsLmdldFNpbXBsZVN0YWNrVHJhY2UodGhyb3dhYmxlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>getTitle</text>
       </register>
     </registers>
     <search>
