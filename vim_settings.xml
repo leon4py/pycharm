@@ -98,6 +98,7 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.ui/src/main/resources/logback-spring.xml" timestamp="1495002980463" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/TaskQueryModel.java" timestamp="1495078257484" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1495007937960" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1495077502776" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/manual/mapper/WfcTaskExtMapper.xml" timestamp="1495075169843">
