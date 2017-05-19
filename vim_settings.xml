@@ -103,11 +103,10 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495157800513">
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="72" column="39" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495159695614">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1494497064528">
         <mark key="[" line="0" column="0" />
@@ -122,34 +121,34 @@
         <text encoding="base64">ICAgICAgICBKU09OLnRvSlNPTlN0cmluZyhvLCBTZXJpYWxpemVyRmVhdHVyZS5Xcml0ZURhdGVVc2VEYXRlRm9ybWF0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrSW5zdGFuY2UuZ2V0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrSW5zdGFuY2UuZ2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBFeGNlcHRpb25VdGlsLmdldE1lc3NhZ2UoZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBheWxvYWQpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBFeGNlcHRpb25VdGlsLmdldE1lc3NhZ2UoZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBUYXNrPFJlc3BvbnNlPiB0YXNrID0gSHR0cENsaWVudC5wb3N0KCIiKS5zZXRCb2R5KEpTT04udG9KU09OU3RyaW5nKHBheWxvYWQpKS50YXNrKCk7CiAgICAgICAgdGFzay5hbmRUaGVuKHJlc3AgLT4gewogICAgICAgICAgICBTdHJpbmcgcmVzcEJvZHkgPSByZXNwLmdldFJlc3BvbnNlQm9keShTdGFuZGFyZENoYXJzZXRzLlVURl84LmRpc3BsYXlOYW1lKCkpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygicmVzcDp7fSIsIHJlc3BCb2R5KTsKICAgICAgICB9KTsKICAgICAgICBlbmdpbmUucnVuKHRhc2spOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGNoYW5uZWwuYmFzaWNQdWJsaXNoKCIiLCBRVUVVRV9OQU1FLCBudWxsLCBtZXNzYWdlLmdldEJ5dGVzKCkpOyAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5iYXNpY1B1Ymxpc2goIiIsIiIsIGZhbHNlLCBwYXlsb2FkLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="-" type="4">
         <text>instance</text>
