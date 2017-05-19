@@ -132,11 +132,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495183966269">
-        <mark key="[" line="70" column="58" />
-        <mark key="]" line="70" column="58" />
-        <mark key="^" line="70" column="58" />
-        <mark key="." line="70" column="58" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495188901828">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="37" />
+        <mark key="^" line="72" column="37" />
+        <mark key="." line="72" column="37" />
       </file>
       <file name="/Clipboard.txt" timestamp="1494497064528">
         <mark key="[" line="0" column="0" />
@@ -144,19 +144,20 @@
       <file name="/fragment.java" timestamp="1495074400539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/base/mq/com.foresee.ftcsp.mq.service/src/main/java/com/foresee/ftcsp/mq/producer/impl/RabbitMQProducer.java" timestamp="1495188786444" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AubXEubW9kZWw8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgiY21kIiwgIkFQSSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtZXNzYWdlUHJvZHVjZXIuCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlUHJvZHVjZXIuCg==</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBNUUNvbnRyb2xsZXIoKSB7CiAgICAgICAgCiAgICB9</text>
@@ -183,7 +184,7 @@
         <text encoding="base64">CQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IMessageProducer</text>
+        <text>post</text>
       </register>
     </registers>
     <search>
