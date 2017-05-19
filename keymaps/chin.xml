@@ -2,6 +2,9 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
