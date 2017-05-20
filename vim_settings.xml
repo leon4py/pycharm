@@ -9,6 +9,7 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/Main.java" timestamp="1495193833175">
         <mark key="[" line="19" column="44" />
       </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/WorkFlowApplication.java" timestamp="1495273880559" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/constant/TaskState.java" timestamp="1495100383577">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="39" />
@@ -146,6 +147,11 @@
         <mark key="." line="66" column="24" />
         <mark key="^" line="66" column="23" />
       </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/spring-activiti.xml" timestamp="1495273197162">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1495075126029">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -182,7 +188,7 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="93" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495270027628">
+      <file name="/Dummy.txt" timestamp="1495272621785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/mq/Producer.java" timestamp="1495111892806">
@@ -197,7 +203,7 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="D:/foresee/base/pom.xml" timestamp="1495108356505">
+      <file name="D:/foresee/base/pom.xml" timestamp="1495273795131">
         <mark key="[" line="194" column="16" />
         <mark key="]" line="194" column="16" />
         <mark key="." line="194" column="16" />
@@ -205,8 +211,11 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494848463029">
         <mark key="[" line="67" column="9" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1494849435241">
-        <mark key="[" line="18" column="28" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1495272640985">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/nofity/TaskNotifier.java" timestamp="1495102409161">
         <mark key="[" line="34" column="64" />
@@ -243,37 +252,37 @@
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB0b3VzZXIgPSAiY2hlbndlbmxvbmdAZm9yZXNlZS5jb20uY24iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5zZi5qc29uLkpTT05PYmplY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>system</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ0cmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyIgogICAgICAgICAgcDpkYXRhU291cmNlLXJlZj0iZGF0YVNvdXJjZSIgLz4KCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5qc29uLmxpYjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+anNvbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wPC92ZXJzaW9uPgoJCQk8c2NvcGU+c3lzdGVtPC9zY29wZT4KCQkJPHN5c3RlbVBhdGg+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9saWIvanNvbi1saWItMi40LWpkazE1Lmphcjwvc3lzdGVtUGF0aD4KCQk8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5zZi5qc29uLkpTT05PYmplY3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB0b3VzZXIgPSAiY2hlbndlbmxvbmdAZm9yZXNlZS5jb20uY24iOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5qc29uLmxpYjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+anNvbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wPC92ZXJzaW9uPgoJCQk8c2NvcGU+c3lzdGVtPC9zY29wZT4KCQkJPHN5c3RlbVBhdGg+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9saWIvanNvbi1saWItMi40LWpkazE1Lmphcjwvc3lzdGVtUGF0aD4KCQk8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1lc3NhZ2VQcm9kdWNlci5zZW5kKCJ3b3JrZmxvdyIsICJ3b3JrZmxvdy50YXNrLmNyZWF0ZSIsIHRhc2tNZXNzYWdlKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB0b3VzZXIgPSAiY2hlbndlbmxvbmdAZm9yZXNlZS5jb20uY24iOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEQlNxbC5nZXRPCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1lc3NhZ2VQcm9kdWNlci5zZW5kKCJ3b3JrZmxvdyIsICJ3b3JrZmxvdy50YXNrLmNyZWF0ZSIsIHRhc2tNZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzRXhlY3V0aW9uQ29udGV4dC5nZXRPdwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>awsbpm</text>
       </register>
     </registers>
     <search>
