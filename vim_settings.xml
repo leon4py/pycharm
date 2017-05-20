@@ -38,7 +38,7 @@
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/plugin/Plugin.java" timestamp="1495263174597">
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/plugin/Plugin.java" timestamp="1495264270053">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -166,7 +166,7 @@
         <mark key="^" line="104" column="30" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1495257563246">
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1495264375503">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -180,6 +180,12 @@
         <mark key="]" line="59" column="15" />
         <mark key="." line="59" column="15" />
         <mark key="^" line="34" column="51" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1495264480478">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="D:/foresee/base/pom.xml" timestamp="1495108356505">
         <mark key="[" line="194" column="16" />
@@ -231,8 +237,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFjdGlvbnNvZnQuYnBtcy5icG1uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hd3MtYnBtbi1saWNlbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+ZW5naW5lPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+c3lzdGVtPC9zY29wZT4KICAgICAgICAgICAgPHN5c3RlbVBhdGg+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9saWIvYXdzLWxpY2Vuc2UuamFyPC9zeXN0ZW1QYXRoPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFjdGlvbnNvZnQuYnBtcy5icG1uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hd3MtYnBtbi1saWNlbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+ZW5naW5lPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+c3lzdGVtPC9zY29wZT4KICAgICAgICAgICAgPHN5c3RlbVBhdGg+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9saWIvYXdzLWxpY2Vuc2UuamFyPC9zeXN0ZW1QYXRoPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gICJodHRwOi8vbG9jYWxob3N0OjgwODgvcG9ydGFsL29wZW5hcGkiOw==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmxpbmtlZGluLnBhcnNlcTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFyc2VxPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjYuMTc8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
@@ -259,7 +265,7 @@
         <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ID0gICJodHRwOi8vbG9jYWxob3N0OjgwODgvcG9ydGFsL29wZW5hcGkiOw==</text>
       </register>
     </registers>
     <search>
