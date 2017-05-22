@@ -3,6 +3,115 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1495445041004">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/UnveilSpringEmbeddedContainer.java" timestamp="1495445039780">
+        <mark key="[" line="11" column="23" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/MQController.java" timestamp="1495442339253">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/Main.java" timestamp="1495193833175">
+        <mark key="[" line="19" column="44" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/constant/TaskState.java" timestamp="1495100383577">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1495266379809">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
+        <mark key="^" line="64" column="28" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/pom.xml" timestamp="1495442265898">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/ProcessControllerTest.java" timestamp="1495197463280">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="30" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/service/PushService.java" timestamp="1495270077897">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1495271523186">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TestListener.java" timestamp="1495267003491">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+      </file>
+      <file name="/IntelliJ Default" timestamp="1495165549400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/plugin/Plugin.java" timestamp="1495277010680">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/pom.xml" timestamp="1495165194219">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="24" column="45" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMessage.java" timestamp="1495268533233">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/collect/Collections3.java" timestamp="1495248135004">
+        <mark key="[" line="22" column="29" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1495445095934" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1495445436896">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcTaskMapper.xml" timestamp="1494923308522">
+        <mark key="[" line="2" column="62" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/outter/UserControllerTest.java" timestamp="1495250289123">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/run.sh" timestamp="1495446871646" />
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495270930376">
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="49" column="41" />
+        <mark key="." line="49" column="41" />
+        <mark key="^" line="49" column="43" />
+      </file>
+      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/outter/UserController.java" timestamp="1495250342629">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1494497064528">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerInterceptor.java" timestamp="1495424418201">
         <mark key="[" line="45" column="61" />
         <mark key="]" line="45" column="61" />
@@ -32,9 +141,6 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1495445041004">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMdel.java" timestamp="1494553898210">
         <mark key="[" line="11" column="17" />
       </file>
@@ -50,60 +156,21 @@
         <mark key="." line="66" column="24" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/UnveilSpringEmbeddedContainer.java" timestamp="1495445039780">
-        <mark key="[" line="11" column="23" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/spring-activiti.xml" timestamp="1495274889667">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/MQController.java" timestamp="1495442339253">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/Main.java" timestamp="1495193833175">
-        <mark key="[" line="19" column="44" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/constant/TaskState.java" timestamp="1495100383577">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="26" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1495446865657" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
       <file name="D:/foresee/workflow/pom.xml" timestamp="1495444944285" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1495266379809">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="64" column="28" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/pom.xml" timestamp="1495442265898">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/ProcessControllerTest.java" timestamp="1495197463280">
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="30" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/MQController.java" timestamp="1495270328430">
         <mark key="[" line="65" column="39" />
         <mark key="]" line="65" column="45" />
         <mark key="." line="65" column="45" />
         <mark key="^" line="65" column="45" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/service/PushService.java" timestamp="1495270077897">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/pom.xml" timestamp="1495265493967">
         <mark key="[" line="44" column="0" />
@@ -111,40 +178,14 @@
         <mark key="^" line="104" column="30" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1495271523186">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1495264375503">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
         <mark key="^" line="93" column="37" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TestListener.java" timestamp="1495267003491">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-      </file>
-      <file name="/IntelliJ Default" timestamp="1495165549400">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1495442268137">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/plugin/Plugin.java" timestamp="1495277010680">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/pom.xml" timestamp="1495165194219">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="24" column="45" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/mq/Producer.java" timestamp="1495111892806">
         <mark key="[" line="59" column="15" />
@@ -152,31 +193,16 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="34" column="51" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMessage.java" timestamp="1495268533233">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1495264480478">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="28" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/collect/Collections3.java" timestamp="1495248135004">
-        <mark key="[" line="22" column="29" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1495445095934" />
       <file name="D:/foresee/base/pom.xml" timestamp="1495273795131">
         <mark key="[" line="194" column="16" />
         <mark key="]" line="194" column="16" />
         <mark key="." line="194" column="16" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1495445436896">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494848463029">
         <mark key="[" line="67" column="9" />
@@ -186,15 +212,6 @@
         <mark key="]" line="14" column="61" />
         <mark key="." line="14" column="61" />
         <mark key="^" line="14" column="36" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcTaskMapper.xml" timestamp="1494923308522">
-        <mark key="[" line="2" column="62" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/outter/UserControllerTest.java" timestamp="1495250289123">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/nofity/TaskNotifier.java" timestamp="1495102409161">
         <mark key="[" line="34" column="64" />
@@ -208,26 +225,11 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
       </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495270930376">
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="43" />
-      </file>
-      <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/outter/UserController.java" timestamp="1495250342629">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="30" />
-      </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/oa/helper/test/ForeseeOAHelperTest.java" timestamp="1495267588313">
         <mark key="[" line="83" column="34" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="92" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1494497064528">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1495270027644">
         <mark key="[" line="0" column="0" />
