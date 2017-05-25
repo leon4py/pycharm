@@ -64,12 +64,17 @@
         <mark key="." line="27" column="25" />
         <mark key="^" line="27" column="25" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseeProcessAPI.java" timestamp="1495703380113" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseeProcessAPI.java" timestamp="1495705366910" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TestListener.java" timestamp="1495267003491">
         <mark key="[" line="40" column="17" />
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/listener/MQWeChatTaskListener.java" timestamp="1495706131006">
+        <mark key="[" line="37" column="78" />
+        <mark key="]" line="37" column="78" />
+        <mark key="." line="37" column="78" />
       </file>
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
@@ -95,6 +100,7 @@
         <mark key="." line="49" column="70" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.mq.service/0.0.1/com.foresee.ftcsp.mq.service-0.0.1-sources.jar!/com/foresee/ftcsp/mq/listener/ForeseeMessageListener.java" timestamp="1495706046567" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcTaskMapper.xml" timestamp="1494923308522">
         <mark key="[" line="2" column="62" />
       </file>
@@ -110,6 +116,7 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1495705374908" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1495270930376">
         <mark key="[" line="49" column="41" />
         <mark key="]" line="49" column="41" />
@@ -212,6 +219,7 @@
         <mark key="." line="838" column="33" />
         <mark key="^" line="838" column="33" />
       </file>
+      <file name="D:/foresee/base/mq/com.foresee.ftcsp.mq.service/src/main/java/com/foresee/ftcsp/mq/listener/ForeseeMessageListener.java" timestamp="1495705999373" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
@@ -379,7 +387,7 @@
         <text encoding="base64">QE1hcHBpbmcoInBvcnRhbC5zZXNzaW9uLmNyZWF0ZURldmljZU5vUGFzc3dvcmQiKQogICAgcHVibGljIFN0cmluZ1Jlc3BvbnNlIGNyZWF0ZUNsaWVudFNlc3Npb25CeURldmljZU5vUGFzc3dvcmQoQFdlYlBhcmFtKG5hbWUgPSAidWlkIikgU3RyaW5nIHVpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBXZWJQYXJhbShuYW1lID0gImxhbmciKSBTdHJpbmcgbGFuZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBXZWJQYXJhbShuYW1lID0gInVzZXJJcCIpIFN0cmluZyB1c2VySXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAV2ViUGFyYW0obmFtZSA9ICJkZXZpY2VUeXBlIikgU3RyaW5nIGRldmljZVR5cGUpIHsKICAgICAgICBTdHJpbmdSZXNwb25zZSByID0gbmV3IFN0cmluZ1Jlc3BvbnNlKCk7CiAgICAgICAgci5zZXREYXRhKG5ldyBTU09VdGlsKCkucmVnaXN0ZXJDbGllbnRTZXNzaW9uTm9QYXNzd29yZCh1aWQsIGxhbmcsIHVzZXJJcCwgZGV2aWNlVHlwZSkpOwogICAgICAgIC8vci5zZXREYXRhKFNESy5nZXRQb3J0YWxBUEkoKS5jcmVhdGVDbGllbnRTZXNzaW9uQnlEZXZpY2UodWlkLCBwd2QsIGxhbmcsIHVzZXJJcCwgZGV2aWNlVHlwZSkpOwogICAgICAgIHJldHVybiByOwogICAg</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QE1hcHBpbmcoInBvcnRhbC5zZXNzaW9uLmNyZWF0ZURldmljZU5vUGFzc3dvcmQiKQogICAgcHVibGljIFN0cmluZ1Jlc3BvbnNlIGNyZWF0ZUNsaWVudFNlc3Npb25CeURldmljZU5vUGFzc3dvcmQoQFdlYlBhcmFtKG5hbWUgPSAidWlkIikgU3RyaW5nIHVpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBXZWJQYXJhbShuYW1lID0gImxhbmciKSBTdHJpbmcgbGFuZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBXZWJQYXJhbShuYW1lID0gInVzZXJJcCIpIFN0cmluZyB1c2VySXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAV2ViUGFyYW0obmFtZSA9ICJkZXZpY2VUeXBlIikgU3RyaW5nIGRldmljZVR5cGUpIHsKICAgICAgICBTdHJpbmdSZXNwb25zZSByID0gbmV3IFN0cmluZ1Jlc3BvbnNlKCk7CiAgICAgICAgci5zZXREYXRhKG5ldyBTU09VdGlsKCkucmVnaXN0ZXJDbGllbnRTZXNzaW9uTm9QYXNzd29yZCh1aWQsIGxhbmcsIHVzZXJJcCwgZGV2aWNlVHlwZSkpOwogICAgICAgIC8vci5zZXREYXRhKFNESy5nZXRQb3J0YWxBUEkoKS5jcmVhdGVDbGllbnRTZXNzaW9uQnlEZXZpY2UodWlkLCBwd2QsIGxhbmcsIHVzZXJJcCwgZGV2aWNlVHlwZSkpOwogICAgICAgIHJldHVybiByOwogICAg</text>
+        <text encoding="base64">dGhyb3dzIEV4Y2VwdGlvbiA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBNYXBwaW5nKCJwcm9jZXNzLnN1Yi5jcmVhdGVCeVVzZXJUYXNrSW5zdElkIikK</text>
@@ -406,7 +414,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBPYmplY3RbXSBib2R5ID0gbmV3IE9iamVjdFt0YXNrcy5zaXplKCldOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>foresee</text>
+        <text encoding="base64">dGhyb3dzIEV4Y2VwdGlvbiA=</text>
       </register>
     </registers>
     <search>
