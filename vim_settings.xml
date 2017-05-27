@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1495846607435">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="55" column="50" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/ReturnValueControllerAspect.java" timestamp="1495872531977">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="91" />
@@ -16,6 +22,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/UnveilSpringEmbeddedContainer.java" timestamp="1495445039780">
         <mark key="[" line="11" column="23" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/target/run.sh" timestamp="1495877327816" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/mq/URLMap.java" timestamp="1495868458085">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="46" column="39" />
@@ -25,18 +32,32 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/Main.java" timestamp="1495193833175">
         <mark key="[" line="19" column="44" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1495799577667">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="36" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="58" column="36" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkFlow2.java" timestamp="1495797424419">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="64" />
+        <mark key="^" line="25" column="64" />
+        <mark key="." line="25" column="64" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/listener/MQWeChatTaskListener.java" timestamp="1495784543986">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="95" />
+        <mark key="." line="7" column="95" />
+        <mark key="^" line="7" column="95" />
+      </file>
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerAspect.java" timestamp="1495846922300">
-        <mark key="]" line="40" column="23" />
-        <mark key="^" line="40" column="23" />
-        <mark key="." line="40" column="23" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/FtcspClientTest.java" timestamp="1495871087971" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/collect/Collections3.java" timestamp="1495248135004">
         <mark key="[" line="22" column="29" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/command/linerunner/MQCommandLineRunner.java" timestamp="1495876419391" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcTaskMapper.xml" timestamp="1494923308522">
         <mark key="[" line="2" column="62" />
       </file>
@@ -56,16 +77,46 @@
         <mark key="." line="32" column="55" />
         <mark key="^" line="32" column="55" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/front/HealthController.java" timestamp="1495876803767">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/annotations/RabbitMapping.java" timestamp="1495790720055">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1494497064528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerInterceptor.java" timestamp="1495800618459">
         <mark key="[" line="40" column="24" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/BodyConsumerInterceptor.java" timestamp="1495794680569">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+      </file>
       <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.ui/src/test/java/com/foresee/ftcsp/gateway/test/RedisCreateIdTest.java" timestamp="1495869590576" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkFlowReturnValueHandler.java" timestamp="1495797704017">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+      </file>
       <file name="D:/foresee/base/mq/com.foresee.ftcsp.mq.service/src/main/java/com/foresee/ftcsp/mq/producer/IMessageProducer.java" timestamp="1495869701666" />
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/BlockingQueue.java" timestamp="1495875391671" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMdel.java" timestamp="1494553898210">
         <mark key="[" line="11" column="17" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/mq/NsqCallback.java" timestamp="1495790034016">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.mq.service/0.0.1/com.foresee.ftcsp.mq.service-0.0.1-sources.jar!/com/foresee/ftcsp/mq/producer/impl/RabbitMQProducer.java" timestamp="1495870049302" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1495769134754">
@@ -74,13 +125,26 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
+      <file name="D:/foresee/workflow/pom.xml" timestamp="1495790619211">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="93" column="20" />
+        <mark key="^" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkFlowInterceptor.java" timestamp="1495801398283">
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+        <mark key="^" line="48" column="49" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/BodyComsumerInterceptor.java" timestamp="1495534353222">
         <mark key="[" line="23" column="29" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JettySpringEmbeddedContainer.java" timestamp="1495873908696">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JettySpringEmbeddedContainer.java" timestamp="1495876627145">
+        <mark key="[" line="28" column="100" />
+        <mark key="]" line="28" column="99" />
+        <mark key="." line="28" column="99" />
+        <mark key="^" line="28" column="99" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/config/ReturnValueControllerAspectTest.java" timestamp="1495869900220">
         <mark key="[" line="38" column="53" />
@@ -88,9 +152,17 @@
         <mark key="." line="40" column="67" />
         <mark key="^" line="40" column="67" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.14.v20161028/jetty-util-9.3.14.v20161028-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1495874426080" />
       <file name="/Dummy.txt" timestamp="1495869683503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/annotations/Var.java" timestamp="1495787854232">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/util/concurrent/ForwardingBlockingDeque.java" timestamp="1495875233092" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1494848463029">
         <mark key="[" line="67" column="9" />
       </file>
@@ -100,18 +172,11 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/commandLineRunner/MQCommandLineRunner.java" timestamp="1495847825293">
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1495868474147">
+      <file name="/fragment.java" timestamp="1495876986693">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1495847858421">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -126,40 +191,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0aXRsZSIsICLH67zZwfezzCAyLjAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZlci5zZXRTZXJ2ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0LmcK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZlci5zZXRTZXJ2ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0LmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZlCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBwSWQgPSBTZXJ2bGV0UmVxdWVzdFV0aWxzLmdldFN0cmluZ1BhcmFtZXRlcihyZXF1ZXN0LCAiYXBwSWQiLCAiVU5LTk9XTiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LPj4+Pj4+Pj4+PiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVxdWVzdFVSSSA9IHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldEFjY2VwdG9ycygyMDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb29sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaW50IGRlbGF5ID0gKGludCkgVGltZVVuaXQuU0VDT05EUy50b01pbGxpcygxMCk7CiAgICAgICAgbWVzc2FnZVByb2R1Y2VyLmNyZWF0ZURlbGF5UXVldWUoV29ya0Zsb3dEaWN0LkVYQ0hBTkdFLCBxdWV1ZU5hbWUsIGRlbGF5KTsKICAgICAgICBtZXNzYWdlUHJvZHVjZXIuY3JlYXRlUXVldWUoV29ya0Zsb3dEaWN0LkVYQ0hBTkdFLCBxdWV1ZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY3VzdG9taXplKENvbmZpZ3VyYWJsZUVtYmVkZGVkU2VydmxldENvbnRhaW5lciBjb250YWluZXIpIHsKICAgICAgICBpZiAoY29udGFpbmVyIGluc3RhbmNlb2YgSmV0dHlFbWJlZGRlZFNlcnZsZXRDb250YWluZXJGYWN0b3J5KSB7CiAgICAgICAgICAgICgoSmV0dHlFbWJlZGRlZFNlcnZsZXRDb250YWluZXJGYWN0b3J5KSBjb250YWluZXIpLmFkZFNlcnZlckN1c3RvbWl6ZXJzKChKZXR0eVNlcnZlckN1c3RvbWl6ZXIpIHNlcnZlciAtPiB7CiAgICAgICAgICAgICAgICBzZXJ2ZXIuc2V0U3RvcEF0U2h1dGRvd24oZmFsc2UpOwogICAgICAgICAgICAgICAgc2VydmVyLnNldFN0b3BUaW1lb3V0KFRpbWVVbml0LlNFQ09ORFMudG9NaWxsaXMoMTApKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>SECONDS</text>
       </register>
     </registers>
     <search>
