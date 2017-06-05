@@ -9,6 +9,7 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="55" column="50" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/oa/helper/ForeseeOAHelper.java" timestamp="1496626415524" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/ReturnValueControllerAspect.java" timestamp="1496224651736">
         <mark key="[" line="75" column="71" />
         <mark key="]" line="75" column="70" />
@@ -24,7 +25,7 @@
         <mark key="^" line="46" column="19" />
         <mark key="." line="46" column="19" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/workflow/transaction/invoke/service/impl/MigrationService.java" timestamp="1496394365023">
+      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/workflow/transaction/invoke/service/impl/MigrationService.java" timestamp="1496626579602">
         <mark key="'" line="120" column="0" />
         <mark key="[" line="39" column="77" />
         <mark key="]" line="39" column="57" />
@@ -46,7 +47,7 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/front/MigrationController.java" timestamp="1496300866164">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/front/MigrationController.java" timestamp="1496626441355">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
@@ -72,7 +73,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/store/service/impl/FtcspWorkFlowOrderService.java" timestamp="1496375300455" />
       <file name="D:/foresee/store/com.foresee.ftcsp.store.model/src/main/java/com/foresee/ftcsp/store/manual/dao/LchdlclzjlbExtMapper.java" timestamp="1496372030275">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="39" column="69" />
@@ -183,7 +183,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1495769134754">
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/service/MigrationService.java" timestamp="1496366859025">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/service/MigrationService.java" timestamp="1496626445006">
         <mark key="[" line="53" column="65" />
         <mark key="]" line="48" column="25" />
         <mark key="." line="48" column="25" />
@@ -250,8 +250,6 @@
       <file name="/Dummy.txt" timestamp="1496373563523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/store/service/impl/StoreTaskService.java" timestamp="1496375407182" />
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.model/src/main/java/com/foresee/ftcsp/store/manual/dto/OrderTaskDTO.java" timestamp="1496373368307" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/annotations/Var.java" timestamp="1495787854232">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="18" />
@@ -289,7 +287,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.rest/src/main/java/com/foresee/ftcsp/rest/listener/SendStoreTaskListenter.java" timestamp="1496373337803" />
       <file name="/fragment.java" timestamp="1496391097508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
