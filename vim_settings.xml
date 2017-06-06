@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.1.5/ribbon-loadbalancer-2.1.5-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java" timestamp="1496648284885" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1496198888024">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -16,7 +15,6 @@
         <mark key="." line="75" column="70" />
         <mark key="^" line="75" column="70" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/AwsHandlerController.java" timestamp="1496716676872" />
       <file name="/a.dummy" timestamp="1496391180205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,6 +30,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1496719520793" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/UnveilSpringEmbeddedContainer.java" timestamp="1495445039780">
         <mark key="[" line="11" column="23" />
       </file>
@@ -56,8 +55,6 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/Main.java" timestamp="1495193833175">
         <mark key="[" line="19" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.1.5/ribbon-loadbalancer-2.1.5-sources.jar!/com/netflix/loadbalancer/PredicateBasedRule.java" timestamp="1496648350021" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.1.5/ribbon-loadbalancer-2.1.5-sources.jar!/com/netflix/loadbalancer/AbstractServerPredicate.java" timestamp="1496648356357" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1495799577667">
         <mark key="[" line="58" column="37" />
         <mark key="]" line="58" column="36" />
@@ -76,14 +73,17 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/store/service/impl/FtcspWorkFlowOrderService.java" timestamp="1496649541163" />
+      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/store/service/impl/FtcspWorkFlowOrderService.java" timestamp="1496718487466">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="D:/foresee/store/com.foresee.ftcsp.store.rest/src/main/java/com/foresee/ftcsp/store/rest/inner/MigrationController.java" timestamp="1496649175350">
         <mark key="[" line="32" column="29" />
         <mark key="]" line="34" column="19" />
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/ProcessServiceImpl.java" timestamp="1496653221252" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/database/DBConfig.java" timestamp="1496306040161">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="58" />
@@ -105,11 +105,9 @@
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.4.RELEASE/spring-aop-4.3.4.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java" timestamp="1496647592890" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/collect/Collections3.java" timestamp="1495248135004">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1496647919586" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcTaskMapper.xml" timestamp="1494923308522">
         <mark key="[" line="2" column="62" />
       </file>
@@ -152,14 +150,12 @@
         <mark key="." line="170" column="81" />
         <mark key="^" line="170" column="81" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1496647753888" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/front/MigrationControllerTest.java" timestamp="1496304445004">
         <mark key="[" line="36" column="46" />
         <mark key="]" line="37" column="32" />
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="32" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.rest/src/main/resources/config/bootstrap.properties" timestamp="1496648836892" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkFlowReturnValueHandler.java" timestamp="1495797704017">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="36" column="24" />
@@ -186,6 +182,7 @@
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1496719532972" />
       <file name="D:/foresee/workflow/pom.xml" timestamp="1495790619211">
         <mark key="[" line="87" column="21" />
         <mark key="]" line="93" column="20" />
@@ -219,7 +216,6 @@
         <mark key="." line="26" column="60" />
         <mark key="^" line="26" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.1.0.RELEASE/spring-cloud-netflix-core-1.1.0.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class" timestamp="1496648196413" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/config/ReturnValueControllerAspectTest.java" timestamp="1495869900220">
         <mark key="[" line="38" column="53" />
         <mark key="]" line="40" column="67" />
@@ -232,8 +228,13 @@
         <mark key="^" line="38" column="69" />
         <mark key="." line="38" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496649563095">
+      <file name="/Dummy.txt" timestamp="1496719417702">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/store/service/impl/StoreTaskService.java" timestamp="1496718829460">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="48" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="D:/foresee/store/com.foresee.ftcsp.store.model/src/main/java/com/foresee/ftcsp/store/manual/dto/OrderTaskDTO.java" timestamp="1496646590430">
         <mark key="[" line="37" column="30" />
@@ -256,7 +257,6 @@
       <file name="D:/foresee/store/com.foresee.ftcsp.store.service/pom.xml" timestamp="1496370939965">
         <mark key="[" line="28" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.1.0.RELEASE/spring-cloud-netflix-core-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java" timestamp="1496648252100" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1496220021512">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="16" column="13" />
@@ -275,15 +275,13 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="D:/foresee/store/com.foresee.ftcsp.store.rest/src/main/java/com/foresee/ftcsp/rest/listener/SendStoreTaskListenter.java" timestamp="1496716878147" />
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.database/0.0.1/com.foresee.ftcsp.public.database-0.0.1-sources.jar!/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1496649560962" />
+      <file name="D:/foresee/store/com.foresee.ftcsp.store.rest/src/main/java/com/foresee/ftcsp/rest/listener/SendStoreTaskListenter.java" timestamp="1496718881035" />
       <file name="/fragment.java" timestamp="1496649563087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1496717554998" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
@@ -300,37 +298,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9Im9yZGVyQ29kZSAhPSBudWxsIj4KICAgICAgICAje29yZGVyQ29kZSxqZGJjVHlwZT1WQVJDSEFSfSwKICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICB2YXIucHV0KCJvcmRlckNvZGUiLGR0by5nZXRPcmRlckNvZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSW50ZWdlcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSW50ZWdlcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIucHV0KCJvcmRlckNvZGUiLGR0by5nZXRPcmRlckNvZGUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2JqLnNldE9yZGVyQ29kZShkdG8uZ2V0T3JkZXJDb2RlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZHRvLmdldE9yZGVyQ29kZSgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZHRvLmdldE9yZGVyQ29kZSgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZHRvLmdldE1pZ3JhdGlvbigpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZURpc2NvdmVyeUNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSW50ZWdlcigpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJUYXNrRXh0TWFwcGVyLnVwZGF0ZUJ5SWQoZHRvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIrKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldFJlbWFyayhlcnJvck1zZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SpringJUnit4ClassRunner</text>
