@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1496800168735">
+      <file name="/a.dummy" timestamp="1496824726619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/model/TaskMdel.java" timestamp="1494553898210">
@@ -76,6 +76,12 @@
       <file name="/Dummy.txt" timestamp="1496820173006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/awsrepo/BPMNService.java" timestamp="1496824870128">
+        <mark key="[" line="59" column="85" />
+        <mark key="]" line="49" column="19" />
+        <mark key="." line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/BpmnElement.java" timestamp="1496819201188">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="59" column="15" />
@@ -139,10 +145,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/RepositoryServiceImpl.java" timestamp="1496821529621">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/RepositoryServiceImpl.java" timestamp="1496824723560">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1496807201405">
         <mark key="[" line="35" column="0" />
@@ -177,40 +183,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdSZXNwb25zZSBicG1uRmlsZVRvU3RyaW5nID0gcmVwb3NpdG9yeVNlcnZpY2UuZ2V0QnBtbkZpbGVUb1N0cmluZyhwcm9jZXNzRGVmSWQpOwogICAgICAgIFN0cmluZyBicG1uRmlsZVRvU3RyaW5nRGF0YSA9IGJwbW5GaWxlVG9TdHJpbmcuZ2V0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0QnBtbkZyb21BcGkocHJvY2Vzc0RlZklkKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZWFibGUoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpTWV0aG9kID0gInJlcG9zaXRvcnkuYnBtbi5nZXQiOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gYXJncyA9IE1hcHMubmV3SGFzaE1hcFdpdGhFeHBlY3RlZFNpemUoMSk7CiAgICAgICAgYXJncy5wdXQoInByb2Nlc3NEZWZJZCIsIHByb2Nlc3NEZWZJZCk7CiAgICAgICAgcmV0dXJuIGNsaWVudC5leGVjKGFwaU1ldGhvZCwgYXJncywgU3RyaW5nUmVzcG9uc2UuY2xhc3MpOw==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZWFibGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpTWV0aG9kID0gInJlcG9zaXRvcnkuYnBtbi5nZXQiOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gYXJncyA9IE1hcHMubmV3SGFzaE1hcFdpdGhFeHBlY3RlZFNpemUoMSk7CiAgICAgICAgYXJncy5wdXQoInByb2Nlc3NEZWZJZCIsIHByb2Nlc3NEZWZJZCk7CiAgICAgICAgcmV0dXJuIGNsaWVudC5leGVjKGFwaU1ldGhvZCwgYXJncywgU3RyaW5nUmVzcG9uc2UuY2xhc3MpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nUmVzcG9uc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGlzdG9yeVRhc2tJbnN0YW5jZSBoaXN0b3J5VGFza0luc3RhbmNlID0gaGlzdG9yeVRhc2tJbnN0YW5jZXMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAubWF4KGluc3RhbmNlIC0+IGluc3RhbmNlLmdldEVuZFRpbWUoKS5nZXRUaW1lKCkpLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy+78cihz8LSu7j2vdq147XE19S2qNLlaWQKICAgICAgICAgICAgV29ya0Zsb3dVdGlscy5nZXROZXh0VGFza3MobWFwcywgcHJvY2Vzc0RlZklkLCBhY3Rpdml0eURlZklkKTsKCiAgICAgICAgICAgIC8vtbHHsL3ateO1xL3atePQ8rrFus3V/ci3w/uzxgogICAgICAgICAgICBXb3JrRmxvd1V0aWxzLm1hcEN1cnJOb0FuZE5hbWUocHJvY2Vzc0RlZklkLCBhY3Rpdml0eURlZklkLCBtYXBzKTsKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRCcG1uRnJvbUFwaShwcm9jZXNzRGVmSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcHMucHV0KCJjdXN0b21JZCIsIHVzZXJUYXNrLmdldEN1c3RvbVVuaXF1ZUlkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRoLml0ZXJhdG9yKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhyb3dhYmxlcy5wcm9wYWdhdGVJZlBvc3NpYmxlKGUsIGUuZ2V0Q2xhc3MoKSk7Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>8510</text>
+        <text encoding="base64">SU9FeGNlcHRpb24g</text>
       </register>
     </registers>
     <search>
