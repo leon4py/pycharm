@@ -66,18 +66,19 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1496905040295">
-        <mark key="[" line="117" column="50" />
-        <mark key="]" line="117" column="50" />
-        <mark key="^" line="117" column="52" />
-        <mark key="." line="117" column="50" />
+      <file name="/WorkFlowUtils.java" timestamp="1496908462731" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1496908644034">
+        <mark key="[" line="106" column="63" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="105" column="33" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1496884085706" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1496908228318">
-        <mark key="[" line="354" column="10" />
-        <mark key="]" line="356" column="17" />
-        <mark key="^" line="356" column="17" />
-        <mark key="." line="356" column="17" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1496908895826">
+        <mark key="[" line="269" column="33" />
+        <mark key="]" line="269" column="33" />
+        <mark key="." line="269" column="33" />
+        <mark key="^" line="268" column="45" />
       </file>
       <file name="D:/foresee/workflow/pom.xml" timestamp="1496827036772">
         <mark key="[" line="115" column="16" />
@@ -126,40 +127,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmRvbTRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmRvbTRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
+        <text encoding="base64">ICAgICAgICBCcG1uRWxlbWVudCBhY3Rpdml0eSA9IGZpbmRCcG1uRWxlbWVudEJ5SWQoYWN0aXZpdHlJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nextUserTask</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogPHByZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQb2ludGN1dCgiZXhlY3V0aW9uKCogY29tLmZvcmVzZWUuZnRjc3AuLnJlc3QuLiouKiguLikpICYmIEBhbm5vdGF0aW9uKG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0TWFwcGluZykiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcXVlcnlWYXJzCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdSZXNwb25zZSBicG1uRmlsZVRvU3RyaW5nID0gcmVwb3NpdG9yeVNlcnZpY2UuZ2V0QnBtbkZpbGVUb1N0cmluZyhwcm9jZXNzRGVmSWQpOwogICAgICAgIFN0cmluZyB4bWwgPSBicG1uRmlsZVRvU3RyaW5nLmdldERhdGEoKTsKICAgICAgICBCcG1uR3JhcGggYnBtbkdyYXBoID0gbmV3IEJwbW5HcmFwaCh4bWwpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aXZpdHkgaW5zdGFuY2VvZiBVc2VyVGFzaykgewogICAgICAgICAgICByZXR1cm4gKFVzZXJUYXNrKSBhY3Rpdml0eTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCK1scewvdq147K7ysdVc2VyVGFza8Dg0M0iKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>net.tds.adm.metasolv.customerlink.services.*.get*(</text>
+        <text>nextUserTask</text>
       </register>
     </registers>
     <search>
