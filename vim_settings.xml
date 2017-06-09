@@ -125,11 +125,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerInterceptor.java" timestamp="1495800618459">
         <mark key="[" line="40" column="24" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/model/WfcTaskMapperTest.java" timestamp="1496918634188">
-        <mark key="[" line="87" column="27" />
-        <mark key="]" line="87" column="27" />
-        <mark key="^" line="86" column="19" />
-        <mark key="." line="87" column="27" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/model/WfcTaskMapperTest.java" timestamp="1496971281072">
+        <mark key="[" line="63" column="71" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="19" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/manual/dao/WfcVarExtMapper.java" timestamp="1496914429850">
         <mark key="[" line="21" column="15" />
@@ -159,6 +159,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/StartEvent.java" timestamp="1496809066785">
         <mark key="[" line="8" column="7" />
       </file>
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/stream/Collectors.java" timestamp="1496971347923" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
@@ -249,37 +250,37 @@
         <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBxdWVyeVByb2Nlc3NJbnN0SWRzQnlWYXJzKExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gbWFwTGlzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>awsVarList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAtPiB7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAodmFyIC0+IHsKICAgICAgICAgICAgU3RyaW5nIHZhck5hbWUgPSB2YXIuZ2V0VmFyTmFtZSgpOwogICAgICAgICAgICBPYmplY3QgdmFsdWU7CiAgICAgICAgICAgIFN0cmluZyB2YWx1ZVR5cGUgPSB2YXIuZ2V0VmFsdWVUeXBlKCk7CiAgICAgICAgICAgIHN3aXRjaCAodmFsdWVUeXBlKSB7CiAgICAgICAgICAgICAgICBjYXNlICJzdHJpbmciOgogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gdmFyLmdldFRleHRWYWx1ZSgpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAiaW50IjoKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHZhci5nZXRMb25nVmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgImRvdWJsZSI6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YXIuZ2V0RG91YmxlVmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgIm9iamVjdCI6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YXIuZ2V0VGV4dFZhbHVlKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gRklYTUUg0OjSqrSmwO1ib29sZWFuus1vYmplY3QKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiwqm19LXEwODQzcO709C0psDtOiIgKyB2YWx1ZVR5cGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gSW1tdXRhYmxlTWFwLm9mKHZhck5hbWUsIHZhbHVlKTsKICAgICAgICAgICAgcmV0dXJuIG1hcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAtPiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKCB2YXIgLT4gdmFyLmdldCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAodmFyIC0+IHsKICAgICAgICAgICAgU3RyaW5nIHZhck5hbWUgPSB2YXIuZ2V0VmFyTmFtZSgpOwogICAgICAgICAgICBPYmplY3QgdmFsdWU7CiAgICAgICAgICAgIFN0cmluZyB2YWx1ZVR5cGUgPSB2YXIuZ2V0VmFsdWVUeXBlKCk7CiAgICAgICAgICAgIHN3aXRjaCAodmFsdWVUeXBlKSB7CiAgICAgICAgICAgICAgICBjYXNlICJzdHJpbmciOgogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gdmFyLmdldFRleHRWYWx1ZSgpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAiaW50IjoKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHZhci5nZXRMb25nVmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgImRvdWJsZSI6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YXIuZ2V0RG91YmxlVmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgIm9iamVjdCI6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YXIuZ2V0VGV4dFZhbHVlKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gRklYTUUg0OjSqrSmwO1ib29sZWFuus1vYmplY3QKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiwqm19LXEwODQzcO709C0psDtOiIgKyB2YWx1ZVR5cGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gSW1tdXRhYmxlTWFwLm9mKHZhck5hbWUsIHZhbHVlKTsKICAgICAgICAgICAgcmV0dXJuIG1hcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKCB2YXIgLT4gdmFyLmdldCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>awsVarList</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
