@@ -4,12 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/oa/helper/ForeseeOAHelper.java" timestamp="1497247660074" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1497256174205">
-        <mark key="[" line="67" column="50" />
-        <mark key="]" line="67" column="50" />
-        <mark key="." line="67" column="50" />
-        <mark key="^" line="67" column="98" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1497258806382">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="68" column="50" />
+        <mark key="." line="68" column="50" />
+        <mark key="^" line="68" column="98" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/resources/config/bootstrap.properties" timestamp="1497256852465" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcVarMapper.xml" timestamp="1496993408268">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="12" />
@@ -72,6 +73,11 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1497238035242">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1497254017008" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/pom.xml" timestamp="1497254025327">
         <mark key="[" line="44" column="21" />
@@ -83,11 +89,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/mq/NsqService.java" timestamp="1495790060319">
         <mark key="[" line="42" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1497255976995" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1497258504931" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/constant/RedisKeyEnum.java" timestamp="1495763548715">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1497233837007" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1497258790132" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/UserTaskNode.java" timestamp="1496800585315">
         <mark key="[" line="22" column="14" />
       </file>
@@ -97,7 +103,7 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497002278850">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497258880302">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
