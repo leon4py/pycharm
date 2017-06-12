@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/oa/helper/ForeseeOAHelper.java" timestamp="1497247660074" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1497256174205">
+        <mark key="[" line="67" column="50" />
+        <mark key="]" line="67" column="50" />
+        <mark key="." line="67" column="50" />
+        <mark key="^" line="67" column="98" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/auto/mapper/WfcVarMapper.xml" timestamp="1496993408268">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="12" />
@@ -13,6 +19,7 @@
       <file name="/a.dummy" timestamp="1496999115068">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/config/FastJsonConfig.java" timestamp="1497255954510" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1497254666681">
         <mark key="[" line="144" column="17" />
         <mark key="]" line="144" column="7" />
@@ -76,6 +83,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/mq/NsqService.java" timestamp="1495790060319">
         <mark key="[" line="42" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1497255976995" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/constant/RedisKeyEnum.java" timestamp="1495763548715">
         <mark key="[" line="8" column="7" />
       </file>
@@ -260,37 +268,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IGdldFZhcnNCeVByb2Nlc3NJbnN0SWRzKFN0cmluZy4uLiBwcm9jZXNzSW5zdElkcykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3Aud29ya2Zsb3cuc2VydmljZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo8IS0tCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Pair</text>
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuc2V0RmFzdEpzb25Db25maWcoRmEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KCJyZXF1ZXN0SWQiLCByZXF1ZXN0LmdldFBhcmFtZXRlcigicmVxdWVzdElkIikpOwogICAgICAgIGNoYWluLmRvRmlsdGVyKG5ldyBSZXBlYXRhYmxlSHR0cFNlcnZsZXRSZXF1ZXN0V3JhcHBlcigoSHR0cFNlcnZsZXRSZXF1ZXN0KSByZXF1ZXN0KS5pbml0KCksIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3Aud29ya2Zsb3cuc2VydmljZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo8IS0tCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hcC5wdXQoInZhckxpc3QiLCBtYXBMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KCJyZXF1ZXN0SWQiLCByZXF1ZXN0LmdldFBhcmFtZXRlcigicmVxdWVzdElkIikpOwogICAgICAgIGNoYWluLmRvRmlsdGVyKG5ldyBSZXBlYXRhYmxlSHR0cFNlcnZsZXRSZXF1ZXN0V3JhcHBlcigoSHR0cFNlcnZsZXRSZXF1ZXN0KSByZXF1ZXN0KS5pbml0KCksIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hcC5wdXQoInZhckxpc3QiLCBtYXBMaXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IG1hcExpc3QgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHZhciA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICB2YXIucHV0KCJkZXB0TGVhZGVyIiwgIm1hZ2dpZSIpOwogICAgICAgIG1hcExpc3QuYWRkKHZhcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Pair</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
