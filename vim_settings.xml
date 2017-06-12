@@ -21,7 +21,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/config/FastJsonConfig.java" timestamp="1497255954510" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1497254666681">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1497260144830">
         <mark key="[" line="144" column="17" />
         <mark key="]" line="144" column="7" />
         <mark key="." line="144" column="7" />
@@ -42,12 +42,6 @@
         <mark key="]" line="65" column="70" />
         <mark key="." line="65" column="70" />
         <mark key="^" line="65" column="70" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/UserTask.java" timestamp="1497235590285">
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="97" column="8" />
-        <mark key="." line="97" column="8" />
-        <mark key="^" line="97" column="8" />
       </file>
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
@@ -103,7 +97,7 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497258880302">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497259809653">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -175,6 +169,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/StartEvent.java" timestamp="1496809066785">
         <mark key="[" line="8" column="7" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/pojo/OperateTask.java" timestamp="1497259954596" />
       <file name="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/OutterURL.java" timestamp="1495249725562">
         <mark key="[" line="16" column="28" />
       </file>
