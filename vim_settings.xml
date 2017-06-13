@@ -39,8 +39,17 @@
         <mark key="." line="65" column="70" />
         <mark key="^" line="65" column="70" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/UserTask.java" timestamp="1497322127535">
-        <mark key="[" line="86" column="65" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/UserTask.java" timestamp="1497322943610">
+        <mark key="[" line="110" column="69" />
+        <mark key="]" line="110" column="69" />
+        <mark key="^" line="114" column="63" />
+        <mark key="." line="110" column="69" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/XmlUtils.java" timestamp="1497322747997">
+        <mark key="[" line="66" column="65" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="30" column="67" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/IntelliJ Default" timestamp="1495165549400">
         <mark key="[" line="0" column="0" />
@@ -51,6 +60,7 @@
         <mark key="." line="54" column="72" />
         <mark key="^" line="54" column="72" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/resources/flow.xml" timestamp="1497322530315" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/BpmnElement.java" timestamp="1496819201188">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="59" column="15" />
@@ -141,11 +151,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1495769134754">
         <mark key="[" line="24" column="3" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1497321455913">
-        <mark key="[" line="161" column="55" />
-        <mark key="]" line="68" column="12" />
-        <mark key="." line="68" column="12" />
-        <mark key="^" line="68" column="12" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1497322859593">
+        <mark key="[" line="165" column="72" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/bpmn/StartEvent.java" timestamp="1496809066785">
         <mark key="[" line="8" column="7" />
@@ -245,40 +255,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQnBtbkdyYXBoIGdldEdyYXBoKFN0cmluZyBwcm9jZXNzRGVmSWQpIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxFbGVtZW50PiBnZXRYbWxOb2Rlc0J5WHBhdGgoU3RyaW5nIGJwbW5TdHJpbmcsIFN0cmluZyB4cGF0aCwgU3RyaW5nLi4uIG5hbWVzcGFjZXMpCiAgICAgICAgICAgIHRocm93cyBEb2N1bWVudEV4Y2VwdGlvbiwgSmF4ZW5FeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4cGF0aCA9ICIvZWR4OmRlZmluaXRpb25zL2JwbW5kaTpCUE1ORGlhZ3JhbS9icG1uZGk6QlBNTlBsYW5lL2JwbW5kaTpCUE1OU2hhcGUvZGk6ZXh0ZW5zaW9uL2F3czplbGVtZW50U2NoZW1hW0BicG1uTmFtZT0nZ3JvdXAnXSI7CiAgICAgICAgTGlzdDxFbGVtZW50PiBncm91cE5vZGVzID0gWG1sVXRpbHMuZ2V0WG1sTm9kZXNCeVhwYXRoKGJwbW5TdHIsIHhwYXRoLCAiZWR4IiwgImJwbW5kaSIsICJkaSIsICJhd3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gTWFwcy5uZXdIYXNoTWFwV2l0aEV4cGVjdGVkU2l6ZSgxKTsKICAgICAgICBEb200alhQYXRoIHhQYXRoID0gbmV3IERvbTRqWFBhdGgoeHBhdGgpOwogICAgICAgIC8vtObU2sP8w/u/1bzktcR4cGF0aMq508O3vcq9CiAgICAgICAgQXJyYXlzLmFzTGlzdChuYW1lc3BhY2VzKS5mb3JFYWNoKG5hbWVzcGFjZSAtPiB7CiAgICAgICAgICAgIHN3aXRjaCAobmFtZXNwYWNlKSB7CiAgICAgICAgICAgICAgICBjYXNlICJhd3MiOgogICAgICAgICAgICAgICAgICAgIG1hcC5wdXQoImF3cyIsICJodHRwOi8vd3d3LmFjdGlvbnNvZnQuY29tLmNuL2JwbW4iKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgImJwbW5kaSI6CiAgICAgICAgICAgICAgICAgICAgbWFwLnB1dCgiYnBtbmRpIiwgImh0dHA6Ly93d3cub21nLm9yZy9zcGVjL0JQTU4vMjAxMDA1MjQvREkiKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgImRpIjoKICAgICAgICAgICAgICAgICAgICBtYXAucHV0KCJkaSIsICJodHRwOi8vd3d3Lm9tZy5vcmcvc3BlYy9ERC8yMDEwMDUyNC9ESSIpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBtYXAucHV0KCJlZHgiLCBkb2N1bWVudC5nZXRSb290RWxlbWVudCgpLmdldE5hbWVzcGFjZVVSSSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIHhQYXRoLnNldE5hbWVzcGFjZUNvbnRleHQobmV3IFNpbXBsZU5hbWVzcGFjZUNvbnRleHQobWFwKSk7CiAgICAgICAgcmV0dXJuIHhQYXRoLnNlbGVjdE5vZGVzKGRvY3VtZW50KTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4cGF0aCA9ICIvZWR4OmRlZmluaXRpb25zL2JwbW5kaTpCUE1ORGlhZ3JhbS9icG1uZGk6QlBNTlBsYW5lL2JwbW5kaTpCUE1OU2hhcGUvZGk6ZXh0ZW5zaW9uL2F3czplbGVtZW50U2NoZW1hW0BicG1uTmFtZT0nZ3JvdXAnXSI7CiAgICAgICAgTGlzdDxFbGVtZW50PiBncm91cE5vZGVzID0gWG1sVXRpbHMuZ2V0WG1sTm9kZXNCeVhwYXRoKGJwbW5TdHIsIHhwYXRoLCAiZWR4IiwgImJwbW5kaSIsICJkaSIsICJhd3MiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>bpmnStr</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB4cGF0aCA9ICIvZWR4OmRlZmluaXRpb25zL2JwbW5kaTpCUE1ORGlhZ3JhbS9icG1uZGk6QlBNTlBsYW5lL2JwbW5kaTpCUE1OU2hhcGUvZGk6ZXh0ZW5zaW9uL2F3czplbGVtZW50U2NoZW1hW0BicG1uTmFtZT0nZ3JvdXAnXSI7CiAgICAgICAgTGlzdDxFbGVtZW50PiBncm91cE5vZGVzID0gWG1sVXRpbHMuZ2V0WG1sTm9kZXNCeVhwYXRoKGJwbW5TdHIsIHhwYXRoLCAiZWR4IiwgImJwbW5kaSIsICJkaSIsICJhd3MiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0VXNlclRhc2tzLmZvckVhY2gobmV4dFVzZXJUYXNrIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0VXNlclRhc2tzLmZvckVhY2gobmV4dFVzZXJUYXNrIC0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuc2V0RmFzdEpzb25Db25maWcoRmEpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3Aud29ya2Zsb3cuc2VydmljZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo8IS0tCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pi0tPgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIuc2V0RmFzdEpzb25Db25maWcoRmEpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3Aud29ya2Zsb3cuc2VydmljZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo8IS0tCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pi0tPgo=</text>
+      </register>
       <register name="-" type="4">
-        <text>getGraph</text>
+        <text>bpmnStr</text>
       </register>
     </registers>
     <search>
