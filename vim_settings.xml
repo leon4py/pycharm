@@ -3,49 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiClassPathMapperScanner.java" timestamp="1497426543267" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/oa/helper/ForeseeOAHelper.java" timestamp="1497404319268" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.pom" timestamp="1497410004716" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1497415083945">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1497423784213">
         <mark key="[" line="347" column="43" />
         <mark key="]" line="73" column="31" />
         <mark key="^" line="73" column="31" />
         <mark key="." line="73" column="31" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1497408020316">
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="36" />
-        <mark key="." line="52" column="36" />
-        <mark key="^" line="52" column="36" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/service/WFService.java" timestamp="1497424530221">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestResponse.java" timestamp="1497409430899" />
-      <file name="D:/foresee/workflow/pom.xml" timestamp="1497408949337">
-        <mark key="[" line="126" column="43" />
-        <mark key="]" line="126" column="45" />
-        <mark key="." line="126" column="45" />
-        <mark key="^" line="126" column="45" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1497410725869" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1497410418303">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.1.0.RELEASE/spring-cloud-netflix-eureka-client-1.1.0.RELEASE.jar!/META-INF/spring.factories" timestamp="1497427552790" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.5.RELEASE/spring-data-redis-1.7.5.RELEASE.jar!/META-INF/maven/org.springframework.data/spring-data-redis/pom.properties" timestamp="1497427414179" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1497422633771" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.1.0.RELEASE/spring-cloud-netflix-eureka-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/eureka/RibbonEurekaAutoConfiguration.java" timestamp="1497427570905" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/XmlUtils.java" timestamp="1497406320761">
         <mark key="[" line="66" column="65" />
         <mark key="]" line="52" column="43" />
         <mark key="^" line="30" column="67" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497415088774">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiBeanScannerConfigure.java" timestamp="1497429215891">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="3" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerAspect.java" timestamp="1497412201163">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerAspect.java" timestamp="1497422459514">
         <mark key="[" line="49" column="25" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497410297775" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java" timestamp="1497429112701" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1497426712637" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1497422474460" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1497426539459" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/test/java/SDKFlowApplication.java" timestamp="1497423947667" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/WFApi.java" timestamp="1497424166140" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1497409531090">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="40" column="0" />
@@ -58,20 +59,62 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1497412393629">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1497421184514">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1497411982581">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.1.0.RELEASE/spring-cloud-netflix-core-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java" timestamp="1497427591145" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiProxy.java" timestamp="1497428849143">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/annotation/MapperScannerRegistrar.java" timestamp="1497427435858" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1497424566780" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java" timestamp="1497428937358" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1497408020316">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java" timestamp="1497429065492" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.5.RELEASE/spring-data-redis-1.7.5.RELEASE.jar!/META-INF/services/javax.enterprise.inject.spi.Extension" timestamp="1497427403725" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java" timestamp="1497424864039" />
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Proxy.java" timestamp="1497428933310" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiClassPathMapperScanner.class" timestamp="1497424909776" />
+      <file name="D:/foresee/workflow/pom.xml" timestamp="1497408949337">
+        <mark key="[" line="126" column="43" />
+        <mark key="]" line="126" column="45" />
+        <mark key="." line="126" column="45" />
+        <mark key="^" line="126" column="45" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/binding/MapperProxy.java" timestamp="1497428893805" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1497423677358">
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiFactoryBean.java" timestamp="1497429083613">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1497424325373" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java" timestamp="1497427763407" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/annotation/MapperScan.java" timestamp="1497427281832" />
+      <file name="/fragment.java" timestamp="1497428349195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1497406590389">
-        <mark key="[" line="85" column="49" />
-      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/ValidationException.java" timestamp="1497422574039" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
@@ -94,37 +137,37 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IElubmVyVVJMLnF1ZXJ5QnlUYXNrSW5zdElkcywgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QW5ub3RhdGlvblV0aWxzLmdldEFubm90YXRpb24ocGFyYW1ldGVyLmdldE1ldGhvZCgpLmdldFBhcmFtZXRlcnMoKVswXSwgVmFyLmNsYXNzKQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QW5ub3RhdGlvblV0aWxzLmdldEFubm90YXRpb24ocGFyYW1ldGVyLmdldE1ldGhvZCgpLmdldFBhcmFtZXRlcnMoKVswXSwgVmFyLmNsYXNzKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QW5ub3RhdGlvblV0aWxzLmdldAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSYWJiaXRNYXBwaW5nCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3JnVXNlclNlcnZpY2VJbXBsIG9yZ1VzZXJTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9IElubmVyVVJMLnF1ZXJ5VXNlclRhc2ssIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>null</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFwcGxpY2F0aW9uQ29udGV4dCA9IChBcHBsaWNhdGlvbkNvbnRleHQpIGJlYW5GYWN0b3J5Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV0ZUYXNrU2VydmljZSB0YXNrU2VydmljZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLndvcmtmbG93Lm1xLmFubm90YXRpb24uUmFiYml0TWFwcGluZzsK</text>
+        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJ3ZWNoYXRNc2ciCgkJY2xhc3M9ImNvbS5mb3Jlc2VlLmZ0Y3NwLndvcmtmbG93LmFwcGVuZC5XZWNoYXRNc2dBcHBlbmRlciI+CgkJPGVuY29kZXIgY2hhcnNldD0iVVRGLTgiPgoJCQk8cGF0dGVybj4lZCBbJXRdJVh7cmVxdWVzdElkfSAlLTVwICVjezE2fS4lbGluZSAtJW0lbjwvcGF0dGVybj4KCQk8L2VuY29kZXI+Cgk8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0id2VjaGF0TXNnIiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>RabbitMapping</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
