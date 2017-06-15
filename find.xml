@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[com.foresee.ftcsp.workflow.awsrest] - ...\com.foresee.ftcsp.workflow.awsrest\src\main\java\com\foresee\ftcsp\workflow\rest\inner\RepositoryController.java'" />
-    <option name="defaultScopeName" value="File '[com.foresee.ftcsp.workflow.awsrest] - ...\com.foresee.ftcsp.workflow.awsrest\src\main\java\com\foresee\ftcsp\workflow\rest\inner\RepositoryController.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[com.foresee.ftcsp.workflow.awsrest] - ...\com.foresee.ftcsp.workflow.awsrest\src\main\java\com\foresee\ftcsp\workflow\rest\inner\RepositoryController.java'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,6 +24,10 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>po.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
