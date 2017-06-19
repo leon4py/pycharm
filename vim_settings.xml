@@ -9,6 +9,7 @@
         <mark key="." line="50" column="45" />
         <mark key="^" line="50" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.database/0.0.1/com.foresee.ftcsp.public.database-0.0.1-sources.jar!/com/foresee/ftcsp/common/database/page/PageSqlSessionTemplate.java" timestamp="1497864185663" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1497603798258">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -55,7 +56,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497862233919">
+      <file name="/Dummy.txt" timestamp="1497864286384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/common/core/rest/RestResponseHead.java" timestamp="1497498249459">
@@ -106,6 +107,7 @@
         <mark key="." line="67" column="36" />
         <mark key="^" line="67" column="36" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1497864387922" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1497498475200">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="37" column="0" />
@@ -130,6 +132,7 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.database/0.0.1/com.foresee.ftcsp.public.database-0.0.1-sources.jar!/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1497864276602" />
       <file name="/fragment.java" timestamp="1497600593295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
