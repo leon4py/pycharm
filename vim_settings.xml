@@ -9,7 +9,6 @@
         <mark key="." line="50" column="45" />
         <mark key="^" line="50" column="45" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/sdk/service/model/ProcessQueryModel.java" timestamp="1497600567392" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1497603798258">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -26,8 +25,6 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java" timestamp="1497602038744" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/binding/MapperProxy.java" timestamp="1497602059999" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiFactoryBean.java" timestamp="1497602382884">
         <mark key="[" line="38" column="39" />
         <mark key="]" line="38" column="52" />
@@ -51,7 +48,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/pojo/OperateTask.java" timestamp="1497600576132" />
+      <file name="/Dummy.txt" timestamp="1497840783422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/common/core/rest/RestResponseHead.java" timestamp="1497498249459">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -80,7 +79,6 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.6/jackson-databind-2.6.6-sources.jar!/com/fasterxml/jackson/databind/MapperFeature.java" timestamp="1497599379427" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1497600874725">
         <mark key="[" line="39" column="21" />
       </file>
@@ -90,14 +88,11 @@
         <mark key="^" line="41" column="21" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java" timestamp="1497601739395" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter4.java" timestamp="1497595469133" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/pojo/ProcessQueryModel.java" timestamp="1497600974775">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java" timestamp="1497595480204" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/TaskQueryResponse.java" timestamp="1497599525296">
         <mark key="[" line="66" column="28" />
         <mark key="]" line="67" column="36" />
@@ -110,7 +105,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1497600866009" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1497840862175" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1497600389691">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
