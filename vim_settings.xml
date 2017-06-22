@@ -14,6 +14,12 @@
         <mark key="." line="99" column="29" />
         <mark key="^" line="99" column="29" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/RedisTest.java" timestamp="1498094548086">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/RepositoryController.java" timestamp="1498040215451" />
       <file name="/a.dummy" timestamp="1498012628141">
         <mark key="[" line="0" column="0" />
@@ -79,6 +85,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1497600874725">
         <mark key="[" line="39" column="21" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498094510634" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/pojo/ProcessQueryModel.java" timestamp="1497600974775">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -115,34 +122,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY2hhaW4uZG9GaWx0ZXIobmV3IFJlcGVhdGFibGVIdHRwU2VydmxldFJlcXVlc3RXcmFwcGVyKChIdHRwU2VydmxldFJlcXVlc3QpIHJlcXVlc3QpLmluaXQoKSwgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5leGVjKGNtZCwgcGFyYW1zLCBhcGlSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5leGVjKGNtZCwgcGFyYW1zLCBhcGlSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHBvcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzZXJ2ZXIucG9ydH0iKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHBvcnQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
