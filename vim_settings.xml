@@ -59,11 +59,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1497600874725">
         <mark key="[" line="39" column="21" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1498114590449">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="28" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1498120283770">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
         <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+        <mark key="." line="47" column="22" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498099066651">
         <mark key="[" line="88" column="50" />
@@ -111,7 +111,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">UXVldWVkVGhyZWFkUG9vbCA=</text>
+        <text>info</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUXVldWVkVGhyZWFkUG9vbCBwb29sID0gYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oSmV0dHlTcHJpbmdFbWJlZGRlZENvbnRhaW5lci5IVFRQX1BPT0wsIFF1ZXVlZFRocmVhZFBvb2wuY2xhc3MpOwo=</text>
@@ -138,7 +138,7 @@
         <text encoding="base64">ICAgICAgICBjb250eHQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UXVldWVkVGhyZWFkUG9vbCA=</text>
+        <text>info</text>
       </register>
     </registers>
     <search>
