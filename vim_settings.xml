@@ -7,8 +7,15 @@
       <file name="/a.dummy" timestamp="1498012628141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498209247146" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498211320136" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1498211255876">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="38" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="52" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/linkedin/parseq/parseq-http-client/2.6.17/parseq-http-client-2.6.17-sources.jar!/com/linkedin/parseq/httpclient/HttpClient.java" timestamp="1498206918561" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/pojo/OperateTask.java" timestamp="1498211348123" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498200229726">
         <mark key="[" line="168" column="4" />
         <mark key="]" line="168" column="4" />
