@@ -8,11 +8,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/net/URLConnection.java" timestamp="1498460582480" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498464213496">
-        <mark key="[" line="112" column="84" />
-        <mark key="]" line="112" column="80" />
-        <mark key="^" line="112" column="80" />
-        <mark key="." line="112" column="80" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498471055936">
+        <mark key="[" line="97" column="119" />
+        <mark key="]" line="97" column="44" />
+        <mark key="^" line="97" column="44" />
+        <mark key="." line="97" column="44" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1498442143941" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/ThreadPools.java" timestamp="1498464714706">
@@ -21,11 +21,11 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/path/PathImpl.java" timestamp="1498469376593" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/Loggers.java" timestamp="1498470204847">
-        <mark key="[" line="27" column="62" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/Loggers.java" timestamp="1498471044029">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="28" column="67" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="28" column="67" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1498469974513" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ValidatorImpl.java" timestamp="1498468469936" />
@@ -132,8 +132,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>LoggerFactory.getLogger(TaskController.class);</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
@@ -160,7 +160,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>LoggerFactory.getLogger(TaskController.class);</text>
       </register>
     </registers>
     <search>
