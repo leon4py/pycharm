@@ -32,7 +32,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1498527546503" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1498527265204" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1498550866878">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1498552669088">
         <mark key="[" line="82" column="109" />
         <mark key="]" line="82" column="107" />
         <mark key="." line="82" column="107" />
@@ -40,7 +40,7 @@
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498550541761" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1498527218265" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498529867594">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498552697038">
         <mark key="[" line="317" column="50" />
         <mark key="]" line="316" column="34" />
         <mark key="." line="316" column="34" />
