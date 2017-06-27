@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1498534868446" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1498557660644" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" timestamp="1498526892578" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerAspect.java" timestamp="1498469881397">
         <mark key="[" line="85" column="22" />
@@ -39,8 +39,11 @@
         <mark key="." line="82" column="34" />
         <mark key="^" line="82" column="34" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498556755669">
-        <mark key="[" line="83" column="56" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498558977073">
+        <mark key="[" line="79" column="51" />
+        <mark key="]" line="80" column="19" />
+        <mark key="^" line="80" column="19" />
+        <mark key="." line="80" column="19" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1498527218265" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498553312831">
@@ -68,6 +71,12 @@
         <mark key="]" line="68" column="37" />
         <mark key="^" line="68" column="37" />
         <mark key="." line="68" column="37" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/misc/NetUtils.java" timestamp="1498558830512">
+        <mark key="[" line="159" column="5" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+        <mark key="^" line="159" column="9" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/ftcsp/workflow/validation/ValidatorsTest.java" timestamp="1498468298333">
         <mark key="[" line="34" column="54" />
@@ -100,40 +109,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSGFuZGxlIEVycm9yLCB7fVxuUmVxdWVzdDp7fSIsIHRyYWNlcywgcmF3Qm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG9zdG5hbWUgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Charsets</text>
+        <text>ublic</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG9zdG5hbWUgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFbnZpcm9ubWVudCBlbnYgPSBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbihFbnZpcm9ubWVudC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBob3N0bmFtZSA9IEluZXRBZGRyZXNzLmdldExvY2FsSG9zdCgpLmdldEhvc3ROYW1lKCk7CiAgICAgICAgfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gZSkgewogICAgICAgICAgICBob3N0bmFtZSA9ICIiOwogICAgICAgICAgICBsb2dnZXIud2Fybigiu/HIobG+tdi7+sb3w/vKp7DcIiwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJIYW5kbGUgRXJyb3IsIHt9XG5SZXF1ZXN0Ont9IiwgdHJhY2VzLCByYXdCb2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Charsets</text>
+        <text>ublic</text>
       </register>
     </registers>
     <search>
