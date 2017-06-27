@@ -3,42 +3,67 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validation.java" timestamp="1498469978239" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiClassPathMapperScanner.java" timestamp="1498527260337" />
       <file name="/a.dummy" timestamp="1498012628141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/net/URLConnection.java" timestamp="1498460582480" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498471055936">
-        <mark key="[" line="97" column="119" />
-        <mark key="]" line="97" column="44" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1498526817448">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
         <mark key="^" line="97" column="44" />
-        <mark key="." line="97" column="44" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1498442143941" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/ThreadPools.java" timestamp="1498464714706">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/path/PathImpl.java" timestamp="1498469376593" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/Loggers.java" timestamp="1498471044029">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="28" column="67" />
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1498469974513" />
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ValidatorImpl.java" timestamp="1498468469936" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiBeanScannerConfigure.java" timestamp="1498441714105" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/awsrepo/BPMNService.java" timestamp="1498461451189" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1498527218265" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498460792653">
+        <mark key="[" line="317" column="50" />
+        <mark key="]" line="316" column="34" />
+        <mark key="." line="316" column="34" />
+        <mark key="^" line="316" column="34" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiFactoryBean.java" timestamp="1498527237726" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/ftcsp/workflow/common/WorkFlowUtilsTest.java" timestamp="1498460918505">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/validation/Validators.java" timestamp="1498526902388" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/resources/压测sql.sql" timestamp="1498206860731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JettySpringEmbeddedContainer.java" timestamp="1498465319143">
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="35" column="64" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="35" column="64" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" timestamp="1498526892578" />
+      <file name="/Dummy.txt" timestamp="1498209297252">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowControllerAspect.java" timestamp="1498469881397">
         <mark key="[" line="85" column="22" />
         <mark key="]" line="85" column="27" />
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1498460342455" />
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1498462782284" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498443408497">
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="68" column="37" />
+        <mark key="^" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1497600874725">
         <mark key="[" line="39" column="21" />
       </file>
@@ -48,65 +73,22 @@
         <mark key="." line="35" column="40" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/GlobalExceptionHandler.java" timestamp="1498462026766" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/TaskControllerTest.java" timestamp="1498447381178" />
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/util/logging/LoggerFactory.java" timestamp="1498470176797" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1498442383973">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/pom.xml" timestamp="1498441592567" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1498460864645" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498460792653">
-        <mark key="[" line="317" column="50" />
-        <mark key="]" line="316" column="34" />
-        <mark key="." line="316" column="34" />
-        <mark key="^" line="316" column="34" />
-      </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspRestClient.java" timestamp="1498443377373" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/test/java/com/foresee/ftcsp/workflow/util/ApiFactoryTest.java" timestamp="1498446815370" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/ftcsp/workflow/common/WorkFlowUtilsTest.java" timestamp="1498460918505">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/resources/压测sql.sql" timestamp="1498206860731">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1498464265182" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JettySpringEmbeddedContainer.java" timestamp="1498465319143">
-        <mark key="[" line="35" column="74" />
-        <mark key="]" line="35" column="64" />
-        <mark key="^" line="35" column="64" />
-        <mark key="." line="35" column="64" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/manual/dao/OrgTeamExtMapper.java" timestamp="1498441671523" />
-      <file name="/Dummy.txt" timestamp="1498209297252">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498443408497">
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="68" column="37" />
-        <mark key="^" line="68" column="37" />
-        <mark key="." line="68" column="37" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/http/client/SimpleClientHttpRequestFactory.java" timestamp="1498460568638" />
-      <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-sources.jar!/org/slf4j/MDC.java" timestamp="1498464680384" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/http/client/support/HttpAccessor.java" timestamp="1498460477958" />
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1498470110954" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1498527546503" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/ftcsp/workflow/validation/ValidatorsTest.java" timestamp="1498468298333">
         <mark key="[" line="34" column="54" />
         <mark key="]" line="34" column="65" />
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="65" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/RepositoryServiceImpl.java" timestamp="1498448634243" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1498527265204" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1498442383973">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1498468004491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ClassPathWFApiScanner.java" timestamp="1498441887465" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
@@ -130,34 +112,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSGFuZGxlIEVycm9yLCB7fVxuUmVxdWVzdDp7fSIsIHRyYWNlcywgcmF3Qm9keSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>LoggerFactory.getLogger(TaskController.class);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJIYW5kbGUgRXJyb3IsIHt9XG5SZXF1ZXN0Ont9IiwgdHJhY2VzLCByYXdCb2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1EQy5wdXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJIYW5kbGUgRXJyb3IsIHt9XG5SZXF1ZXN0Ont9IiwgdHJhY2VzLCByYXdCb2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5nZXRJZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1EQy5wdXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5nZXRJZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5zZQo=</text>
       </register>
       <register name="-" type="4">
         <text>LoggerFactory.getLogger(TaskController.class);</text>
