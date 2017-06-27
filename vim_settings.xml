@@ -32,6 +32,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1498527546503" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1498527265204" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1498550866878">
+        <mark key="[" line="82" column="109" />
+        <mark key="]" line="82" column="107" />
+        <mark key="." line="82" column="107" />
+        <mark key="^" line="82" column="107" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498550541761" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1498527218265" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498529867594">
         <mark key="[" line="317" column="50" />
@@ -66,6 +73,9 @@
         <mark key="." line="34" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java" timestamp="1498528329971" />
+      <file name="/fragment.java" timestamp="1498550867844">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1498529698341" />
     </filemarks>
     <jumps>
@@ -90,37 +100,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSGFuZGxlIEVycm9yLCB7fVxuUmVxdWVzdDp7fSIsIHRyYWNlcywgcmF3Qm9keSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Charsets</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbnZpcm9ubWVudCBlbnYgPSBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbihFbnZpcm9ubWVudC5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiT0tLS0tLS0tLS0tLS0tLS0siKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJIYW5kbGUgRXJyb3IsIHt9XG5SZXF1ZXN0Ont9IiwgdHJhY2VzLCByYXdCb2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9nZ2VyLmdldE1lc3NhZ2VMb2dnZXIoIExvZy5jbGFzcywgZGlyZWN0Q2FsbGVyLmdldENsYXNzTmFtZSgpICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1EQy5wdXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5nZXRJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtlci5zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJIYW5kbGUgRXJyb3IsIHt9XG5SZXF1ZXN0Ont9IiwgdHJhY2VzLCByYXdCb2R5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>LoggerFactory.getLogger(TaskController.class);</text>
+        <text>Charsets</text>
       </register>
     </registers>
     <search>
