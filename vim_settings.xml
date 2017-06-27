@@ -24,6 +24,7 @@
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1498553334947" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/common/WorkFlowUtilsTest.java" timestamp="1498460977145">
         <mark key="[" line="34" column="56" />
         <mark key="]" line="35" column="40" />
@@ -40,7 +41,7 @@
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498550541761" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1498527218265" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498552697038">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1498553312831">
         <mark key="[" line="317" column="50" />
         <mark key="]" line="316" column="34" />
         <mark key="." line="316" column="34" />
