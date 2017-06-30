@@ -18,18 +18,19 @@
       <file name="/a.dummy" timestamp="1498740733285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1498737427660">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1498786653236">
         <mark key="[" line="60" column="22" />
         <mark key="]" line="71" column="10" />
         <mark key="." line="71" column="10" />
         <mark key="^" line="71" column="10" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/stream/ReferencePipeline.java" timestamp="1498733736411" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkFlowInterceptor.java" timestamp="1498743787104" />
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/List.java" timestamp="1498731498664" />
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java" timestamp="1498733577543" />
-      <file name="/ApiFactory.java" timestamp="1498724120178" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/test/java/com/foresee/ftcsp/workflow/util/ApiFactoryTest.java" timestamp="1498740226030">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/README.md" timestamp="1498787151377">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="45" column="33" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/test/java/com/foresee/ftcsp/workflow/util/ApiFactoryTest.java" timestamp="1498787141759">
         <mark key="[" line="38" column="93" />
         <mark key="]" line="39" column="15" />
         <mark key="^" line="39" column="15" />
@@ -49,25 +50,22 @@
       <file name="/Dummy.txt" timestamp="1498743391413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498744303987">
-        <mark key="[" line="67" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498785878583">
+        <mark key="[" line="29" column="8" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1498728847054">
         <mark key="[" line="87" column="4" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/Iterable.java" timestamp="1498732026023" />
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspRestClient.java" timestamp="1498723025476" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ForeseeApiConfig.java" timestamp="1498727812004">
         <mark key="[" line="81" column="11" />
         <mark key="]" line="81" column="13" />
         <mark key="." line="81" column="13" />
         <mark key="^" line="81" column="13" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498732469398" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiInvocationHandler.java" timestamp="1498740142670">
-        <mark key="[" line="113" column="26" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiInvocationHandler.java" timestamp="1498785938030">
+        <mark key="[" line="21" column="7" />
         <mark key="]" line="113" column="29" />
         <mark key="^" line="113" column="29" />
         <mark key="." line="113" column="29" />
@@ -77,6 +75,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1498786686070" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/pom.xml" timestamp="1498786179100" />
       <file name="/fragment.java" timestamp="1498743391434">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +86,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/pom.xml" timestamp="1498786152524" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
@@ -109,37 +110,48 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKc29ucy50b09iamVjdChyZXN1bHREYXRhLCBSZXN0UmVzcG9uc2UuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVGFza0FwaSB0YXNrU2VydmljZTsKICAgIC8vIMH3s8zA4L3Tv9oKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUHJvY2Vzc0FwaSBwcm9jZXNzQXBpOwogICAgCiAgICBwdWJsaWMgdm9pZCBkZW1vKCkgewogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVycygpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCy6dGvuPbIy7T6sOwKICAgICAgICBTdHJpbmcgdWlkID0gIjJmMjc4MzM0NjBmZTRiODg4ZTAyMDcyOWEyNzYyMDNlIjsKICAgICAgICBpbnQgcGFnZSA9IDE7CiAgICAgICAgaW50IHBhZ2VDb3VudCA9IDEwOwogICAgICAgIFJlc3RSZXNwb25zZSByZXN0UmVzcG9uc2UgPSB0YXNrU2VydmljZS5xdWVyeSh1aWQsIHBhZ2UsIHBhZ2VDb3VudCwgbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEpzb25zLnRvT2JqZWN0KHJlc3VsdERhdGEsIFJlc3RSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIC8vIGlnbm9yZQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">YGBgCjxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5mb3Jlc2VlPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5jb20uZm9yZXNlZS5mdGNzcC53b3JrZmxvdy5zZGs8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgo8L2RlcGVuZGVuY3k+CmBgYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jb21wbHRlKCLIzs7xaWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGpzb25EYXRhID0gSnNvbnMudG9Kc29uKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIHRhc2tTZXJ2aWNlLgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PgoJCQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+      <register name="7" type="4">
+        <text>url约定
+--------
+
+URL格式为：http://{url}/{app}/{level}/{service}/{method}?{parameter}
+1、	url：测试环境地址为：10.10.0.76/apigw；生产环境地址另行约定
+2、	app：应用名称；参考业务模块具体描述
+3、	level：可选inner、outter、front、back；参考业务模块具体描述
+4、	service：服务接口名称；参考业务模块具体描述
+5、	method：方法名；参考业务模块具体描述
+
+目前只有inner级别的接口
+/workflow/inner/user/login</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBTdHJpbmcgZ2V0VVJJKE1ldGhvZCBtZXRob2QpIHsKICAgICAgICAgICAgQ2xhc3M8Pz4gZGVjbGFyaW5nQ2xhc3MgPSBtZXRob2QuZ2V0RGVjbGFyaW5nQ2xhc3MoKTsKICAgICAgICAgICAgU3RyaW5nIG1ldGhvZE5hbWUgPSBtZXRob2QuZ2V0TmFtZSgpOwoKICAgICAgICAgICAgU3RyaW5nIGNsYXNzTmFtZSA9IGRlY2xhcmluZ0NsYXNzLmdldFNpbXBsZU5hbWUoKTsKICAgICAgICAgICAgU3RyaW5nIHNlcnZjaWUgPSBjbGFzc05hbWUuc3BsaXQoIkFwaSIpWzBdLnRvTG93ZXJDYXNlKCk7CiAgICAgICAgICAgIHJldHVybiAiL2lubmVyLyIgKyBzZXJ2Y2llICsgIlNlcnZpY2UiICsgIi8iICsgbWV0aG9kTmFtZTsKICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVycygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>rivate</text>
+        <text>k</text>
       </register>
     </registers>
     <search>
