@@ -97,11 +97,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/db/DB.java" timestamp="1499148439154">
-        <mark key="[" line="148" column="20" />
-        <mark key="]" line="140" column="18" />
-        <mark key="." line="140" column="18" />
-        <mark key="^" line="140" column="18" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/db/DB.java" timestamp="1499150347640">
+        <mark key="[" line="104" column="69" />
+        <mark key="]" line="104" column="71" />
+        <mark key="." line="104" column="71" />
+        <mark key="^" line="104" column="71" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiProxy.java" timestamp="1498740262644">
         <mark key="[" line="50" column="34" />
@@ -133,11 +133,11 @@
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/db/DBTest2.java" timestamp="1499138584694">
-        <mark key="[" line="43" column="61" />
-        <mark key="]" line="43" column="60" />
-        <mark key="^" line="43" column="60" />
-        <mark key="." line="43" column="60" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/db/DBTest2.java" timestamp="1499150434910">
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="27" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="54" column="27" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/README.md" timestamp="1498788187033">
         <mark key="[" line="32" column="74" />
@@ -256,48 +256,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1ldGhvZCA9IE1ldGhvZFV0aWxzLmdldE1hdGNoaW5nTWV0aG9kKE1hcFV0aWxzLmNsYXNzLCBtZXRob2ROYW1lLCBNYXAuY2xhc3MsIFN0cmluZy5jbGFzcyk7CiAgICAgICAgICAgIHZhbHVlID0gbWV0aG9kLmludm9rZShudWxsLCBtYXAsIGNvbHVtbk5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0R2V0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIGlkID0gIjAwMDVmOGI2LWJhNGEtNGE2Zi1iM2MzLTBiMGMwYjc3ZjY4OSI7CiAgICAgICAgV2ZjVGFzayBpbnN0YW5jZSA9IERCLmdldEluc3RhbmNlKFdmY1Rhc2suY2xhc3MsIGlkKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW5zdGFuY2UpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGVOYW1lID0gdHlwZS5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBXZmNUYXNrIGluc3RhbmNlID0gVwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWV0aG9kIG1ldGhvZCA9IA==</text>
+        <text>instance</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1ldGhvZCA9IE1ldGhvZFV0aWxzLmdldE1hdGNoaW5nTWV0aG9kKE1hcFV0aWxzLmNsYXNzLCAiZ2V0IiArIHR5cGVOYW1lLCBNYXAuY2xhc3MsIFN0cmluZy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGluc3RhbmNlID0ga2xhc3NDYWNoZS5nZXRVbmNoZWNrZWQoa2xhc3MpLm5ld0luc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwVXRpbHMuZ2V0RG91Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmllbGRVdGlscy53cml0ZURlY2xhcmVkRmllbGQoaW5zdGFuY2UsIE1PRElGSUVEX0ZJRUxEUywgbmV3IEhhc2hNYXA8PigpLCB0cnVlKTsKICAgICAgICAgICAgRmllbGRVdGlscy53cml0ZURlY2xhcmVkRmllbGQoaW5zdGFuY2UsIEZST01fREIsIGZhbHNlLCB0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAobWFwIC0+IHsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (type == int.class) {
-            return MapUtils.getIntValue(map, columnName);
-        }
-        if (type == double.class) {
-            return MapUtils.getDoubleValue(map, columnName);
-        }
-        if (type == float.class) {
-            return MapUtils.getDoubleValue(map, columnName);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3FsLmFwcGVuZChTdHJpbmdVdGlscy5qb2luKHNldHRlclBhcnQsICIgYW5kICIpKTsKICAgICAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBtYXBMaXN0ID0gZ2V0SmRiY1RlbXBsYXRlKCkucXVlcnlGb3JMaXN0KHNxbC50b1N0cmluZygpLCBtb2RpZmllZE1hcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzZUZvcm1hdC5DYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZS5nZXROYW1lKCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JqZWN0IG5ld0luc3RhbmNlID0gbmV3SW5zdGFuY2Uoa2xhc3MpOwogICAgICAgICAgICAgICAgICAgICAgICBwb3B1bGF0ZUJlYW4obmV3SW5zdGFuY2UsIG1hcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlLmlzUAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ2xhc3NVdGlscy5pc1ByaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWV0aG9kIG1ldGhvZCA9IA==</text>
+        <text>instance</text>
       </register>
     </registers>
     <search>
