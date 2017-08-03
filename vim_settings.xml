@@ -128,10 +128,10 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1501571389321">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1501731942653">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
         <mark key="^" line="28" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1499245650487">
@@ -165,7 +165,7 @@
         <text encoding="base64">dXJsID0gJ2h0dHA6Ly8xMC4xMC4wLjIwNjo5MDAxL2dhdGV3YXkvc2VjdXJpdHkvYmFjay91c2VyU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://127.0.0.1/ok?true&quot;</text>
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICd0b2tlbic6ICczNmEzNGM5YTk4ZDJkZjU1M2VkMTYyMjM0MTVhNDY3OTdjMWIyYzE1Jwo=</text>
@@ -192,7 +192,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>http://127.0.0.1/ok?true&quot;</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
