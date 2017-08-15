@@ -8,7 +8,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1500878417823">
+      <file name="/Python Console" timestamp="1502760416871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1499917156531">
@@ -105,6 +105,12 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1498728847054">
         <mark key="[" line="87" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sso/uploadOss.py" timestamp="1502762038001">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/sso/sso.py" timestamp="1499932111288">
         <mark key="[" line="50" column="38" />
         <mark key="]" line="50" column="31" />
@@ -167,13 +173,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiIsCg==</text>
+        <text encoding="base64">dXJsID0gImh0dHA6Ly8xMC4xMC44LjExNzo4OTg5L2dvb2RzL2lubmVyL2pjZHovcGhvdG8vYWxpT1NTU2VydmljZS91cGxvYWQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJIb3N0IjogIiIsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJIb3N0IjogIiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>inner</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
@@ -200,7 +206,7 @@
         <text encoding="base64">IyB1cmwgPSAnaHR0cDovLzEwLjEwLjAuMjA2Ojg5ODkvc2VjdXJpdHkvYmFjay91c2VyU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
       </register>
       <register name="-" type="4">
-        <text>Accept</text>
+        <text>inner</text>
       </register>
     </registers>
     <search>
