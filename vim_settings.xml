@@ -143,11 +143,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1504253152558">
-        <mark key="[" line="32" column="125" />
-        <mark key="]" line="32" column="124" />
-        <mark key="." line="32" column="124" />
-        <mark key="^" line="32" column="124" />
+      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1504255325175">
+        <mark key="[" line="33" column="108" />
+        <mark key="]" line="29" column="127" />
+        <mark key="^" line="29" column="127" />
+        <mark key="." line="29" column="127" />
       </file>
       <file name="/fragment.java" timestamp="1499245650487">
         <mark key="[" line="0" column="0" />
@@ -177,37 +177,37 @@
         <text encoding="base64">dXJsID0gJ2h0dHA6Ly8xMjcuMC4wLjE6ODY2MC9iYWNrL3Rva2VuU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJIb3N0IjogIiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>; unifiedToken=58b9a3c624781f8fc7b669c2db55dc5fa9e00741</text>
+        <text>9001</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">cGFyYW1zID0gewp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cihlLXN0YXJ0KSkK</text>
+        <text encoding="base64">ICAgICJIb3N0IjogIiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQocmVzcC5lbGFwc2VkKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cihlLXN0YXJ0KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cy5hCg==</text>
+        <text encoding="base64">ICAgIGUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdCwgbWFrZV9yZXNwb25zZQoKYXBwID0gRmxhc2soX19uYW1lX18pCgphLmNvbQpiLmNvbQpqcyA9ICIiIgo8aHRtbD4KPGhlYWQ+CgogPHNjcmlwdD4KIDwvc2NyaXB0PgogPHNjcmlwdCBzcmM9Imh0dHA6Ly9qY2hsLmNvbS9qY2hsL3BjL2pzL2pxdWVyeS5qcyIgPjwvc2NyaXB0PgogPHNjcmlwdCBzcmM9Imh0dHA6Ly9zc28uY29tL3h4LmpzIiA+PC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+Ck9rLCBsb2dpbgo8L2JvZHk+CjwvaHRtbD4KIiIiCgpAYXBwLnJvdXRlKCcvbG9naW4nKQpkZWYgaGVsbG9fd29ybGQoKToKICAgIHJlc3BvbnNlID0gYXBwLm1ha2VfcmVzcG9uc2UoanMpCiAgICByZXR1cm4gcmVzcG9uc2UKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bihwb3J0PTgxKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQocmVzcC5lbGFwc2VkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB0b2tlbj0zNmEzNGM5YTk4ZDJkZjU1M2VkMTYyMjM0MTVhNDY3OTdjMWIyYzE1Cg==</text>
+        <text encoding="base64">cy5hCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyB1cmwgPSAnaHR0cDovLzEwLjEwLjAuMjA2Ojg5ODkvc2VjdXJpdHkvYmFjay91c2VyU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdCwgbWFrZV9yZXNwb25zZQoKYXBwID0gRmxhc2soX19uYW1lX18pCgphLmNvbQpiLmNvbQpqcyA9ICIiIgo8aHRtbD4KPGhlYWQ+CgogPHNjcmlwdD4KIDwvc2NyaXB0PgogPHNjcmlwdCBzcmM9Imh0dHA6Ly9qY2hsLmNvbS9qY2hsL3BjL2pzL2pxdWVyeS5qcyIgPjwvc2NyaXB0PgogPHNjcmlwdCBzcmM9Imh0dHA6Ly9zc28uY29tL3h4LmpzIiA+PC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+Ck9rLCBsb2dpbgo8L2JvZHk+CjwvaHRtbD4KIiIiCgpAYXBwLnJvdXRlKCcvbG9naW4nKQpkZWYgaGVsbG9fd29ybGQoKToKICAgIHJlc3BvbnNlID0gYXBwLm1ha2VfcmVzcG9uc2UoanMpCiAgICByZXR1cm4gcmVzcG9uc2UKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bihwb3J0PTgxKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>; unifiedToken=58b9a3c624781f8fc7b669c2db55dc5fa9e00741</text>
+        <text>9001</text>
       </register>
     </registers>
     <search>
