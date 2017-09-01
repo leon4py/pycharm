@@ -143,10 +143,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1502359293137">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1504253152558">
+        <mark key="[" line="32" column="125" />
+        <mark key="]" line="32" column="124" />
+        <mark key="." line="32" column="124" />
+        <mark key="^" line="32" column="124" />
       </file>
       <file name="/fragment.java" timestamp="1499245650487">
         <mark key="[" line="0" column="0" />
@@ -173,13 +174,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodSkK</text>
+        <text encoding="base64">dXJsID0gJ2h0dHA6Ly8xMjcuMC4wLjE6ODY2MC9iYWNrL3Rva2VuU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJIb3N0IjogIiIsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>decode</text>
+        <text>; unifiedToken=58b9a3c624781f8fc7b669c2db55dc5fa9e00741</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
@@ -206,7 +207,7 @@
         <text encoding="base64">IyB1cmwgPSAnaHR0cDovLzEwLjEwLjAuMjA2Ojg5ODkvc2VjdXJpdHkvYmFjay91c2VyU2VydmljZS9nZXRUb2tlbj9yZXF1ZXN0SWQ9ZWVhNWNiZmMtNjc3Zi0xMWU3LWFjOWUtNzAxY2U3NjM2NDI0JmFwcElkPTAwMDEwNicK</text>
       </register>
       <register name="-" type="4">
-        <text>decode</text>
+        <text>; unifiedToken=58b9a3c624781f8fc7b669c2db55dc5fa9e00741</text>
       </register>
     </registers>
     <search>
