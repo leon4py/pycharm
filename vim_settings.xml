@@ -175,11 +175,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/aws/mchuan.py" timestamp="1513333241119">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="30" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/aws/mchuan.py" timestamp="1513786056645">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
         <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="46" />
+        <mark key="." line="10" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -210,7 +210,7 @@
         }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>试</text>
+        <text>您好, 我来自方欣科技,现在在测试</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">oa2hrQosewogICAgImNvbnRlbnQgIjoitszQxcTayN0osdjRoSkiLAogICAgInBob25lICI6IrXnu7C6xcLro6zI9LbguPa6xcLr08OhsSyhsbj0v6oosdjRoSkiCn1dCn0K</text>
@@ -237,7 +237,7 @@
         <text encoding="base64">ICAgIHZhciAkdG9rZW4gPSAkLmFqYXgoewogICAgICAgIHR5cGU6PyJnZXQiLAogICAgICAgIGFzeW5jOj9mYWxzZSwKICAgICAgICB1cmw6P2NvbmZpZy5nZXRWYWx1ZUJ5S2V5KCJVTklGSUVEX0xPR0lOX1VSTCIpKyIvZ2F0ZXdheS9hdXRoL2JhY2svdG9rZW5TZXJ2aWNlL2dldFRva2VuP3JlcXVlc3RJZD0iK3N5c3RlbS5nZXRVVUlEKCkrIiZhcHBJZD0iK2NvbmZpZy5nZXRWYWx1ZUJ5S2V5KCJVTklGSUVEX0FQUElEIiksCiAgICAgICAgZGF0YVR5cGU6PyJqc29ucCIsCi8qICAgICAgICBzdWNjZXNzOj9mdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgdmFyP3Jlc3RSZXNwb25zZT89P0pTT04ucGFyc2UoZGF0YSk7CiAgICAgICAgICAgIHVuaWZpZWRUb2tlbj89P3Jlc3RSZXNwb25zZS5ib2R5LnVuaWZpZWRUb2tlbjsKICAgICAgICAgICAgY2FsbGJhY2sodW5pZmllZFRva2VuKQogICAgICAgIH0sCiAgICAgICAgZXJyb3I6P2Z1bmN0aW9uKCl7CiAgICAgICAgICAgIGFsZXJ0KCdmYWlsJyk7CiAgICAgICAgfSovCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>试</text>
+        <text>您好, 我来自方欣科技,现在在测试</text>
       </register>
     </registers>
     <search>
