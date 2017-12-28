@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/load_ali/sendsms.py" timestamp="1514447865140">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="11" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/RedisTest.java" timestamp="1499242057591">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -213,7 +219,7 @@
         <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKHNoLm5jb2xzKToK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>content</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9wZW5weXhsCg==</text>
@@ -243,7 +249,7 @@
         <text encoding="base64">Ly8gdmFyIHVuaWZpZWRUb2tlbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>content</text>
       </register>
     </registers>
     <search>
