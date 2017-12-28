@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/sendsms.py" timestamp="1514447865140">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/load_ali/sendsms.py" timestamp="1514448691767">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/RedisTest.java" timestamp="1499242057591">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1514124432788">
+      <file name="/Python Console" timestamp="1514448704172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1514123518132">
@@ -219,7 +219,7 @@
         <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKHNoLm5jb2xzKToK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text>1191</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9wZW5weXhsCg==</text>
@@ -249,7 +249,7 @@
         <text encoding="base64">Ly8gdmFyIHVuaWZpZWRUb2tlbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>1191</text>
       </register>
     </registers>
     <search>
