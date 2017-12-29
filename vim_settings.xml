@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/PycharmProjects/aws/.gitignore" timestamp="1509969074821">
         <mark key="[" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/aws/aws_alert.py" timestamp="1513313333655">
+      <file name="$USER_HOME$/PycharmProjects/aws/aws_alert.py" timestamp="1514512009071">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="13" column="62" />
         <mark key="^" line="13" column="62" />
@@ -166,6 +166,12 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/aws/qt_demo.py" timestamp="1514512984234">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/internal/WFApi.java" timestamp="1498793763028">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -215,41 +221,79 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQgIjogIsT6usMsIM7SwLTX1Le90MC/xry8LM/W1NrU2rLiytQiLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKHNoLm5jb2xzKToK</text>
+      <register name="1" type="4">
+        <text>from PyQt5 import QtCore, QtGui, uic
+
+uiFile = &quot;&quot;
+
+Ui_MainWindow, QtBaseClass = uic.loadUiType(uiFile)
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget
+
+
+if __name__ == '__main__':
+
+    app = QApplication(sys.argv)
+
+    w = QWidget()
+    w.resize(250, 150)
+    w.move(300, 300)
+    w.setWindowTitle('Simple')
+    w.show()
+    c
+    sys.exit(app.exec_())</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>from PyQt5 import QtCore, QtGui, uic
+
+uiFile = &quot;&quot;
+
+Ui_MainWindow, QtBaseClass = uic.loadUiType(uiFile)
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget
+
+
+if __name__ == '__main__':
+
+    app = QApplication(sys.argv)
+
+    w = QWidget()
+    w.resize(250, 150)
+    w.move(300, 300)
+    w.setWindowTitle('Simple')
+    w.show()
+    c
+    sys.exit(app.exec_())</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZW5weXhsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CmNsYXNzIE15QXBwKFF0R3VpLlFNYWkp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IFB5UXQ1Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKHNoLm5jb2xzKToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9wZW5weXhsCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>, {
             &quot;content &quot;: &quot;短信内容(必选)&quot;,
             &quot;phone &quot;: &quot;电话号码，若多个号码用”,”隔开(必选)&quot;
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">oa2hrQosewogICAgImNvbnRlbnQgIjoitszQxcTayN0osdjRoSkiLAogICAgInBob25lICI6IrXnu7C6xcLro6zI9LbguPa6xcLr08OhsSyhsbj0v6oosdjRoSkiCn1dCn0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">cHJpbnQocmVzcC50ZXh0KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoanRleHQudGV4dCgpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoX192ZXJzaW9uX18pCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gdmFyIHVuaWZpZWRUb2tlbjsK</text>
-      </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>`</text>
       </register>
     </registers>
     <search>
