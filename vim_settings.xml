@@ -93,10 +93,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/report_sms.py" timestamp="1515141075655">
+      <file name="$USER_HOME$/PycharmProjects/load_ali/report_sms.py" timestamp="1515141993565">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="14" />
-        <mark key="^" line="7" column="15" />
+        <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1499394712586">
@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgICMgIm1zZ0lkIjogIjEzMzk0OCIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>133948306774355971</text>
+        <text>133948306736607237</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
@@ -280,7 +280,7 @@ if __name__ == '__main__':
         }</text>
       </register>
       <register name="-" type="4">
-        <text>133948306774355971</text>
+        <text>133948306736607237</text>
       </register>
     </registers>
     <search>
