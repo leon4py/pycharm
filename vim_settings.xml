@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/sendsms.py" timestamp="1515296514687">
+      <file name="$USER_HOME$/PycharmProjects/load_ali/sendsms.py" timestamp="1515299940611">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
@@ -14,10 +14,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1514448704172">
+      <file name="/Python Console" timestamp="1515299758069">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1514123518132">
+      <file name="/fragment.py" timestamp="1515299904016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1499160544295">
@@ -144,8 +144,8 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sso/sso.py" timestamp="1512699958691">
-        <mark key="[" line="55" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/sso/sso.py" timestamp="1515299792473">
+        <mark key="[" line="58" column="21" />
         <mark key="]" line="50" column="31" />
         <mark key="^" line="50" column="31" />
         <mark key="." line="50" column="31" />
