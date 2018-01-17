@@ -14,10 +14,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515299758069">
+      <file name="/Python Console" timestamp="1516172277129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1515299904016">
+      <file name="/fragment.py" timestamp="1516172267630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1499160544295">
@@ -151,6 +151,12 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="50" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/load_ali/oauth_test.py" timestamp="1516172769976">
+        <mark key="[" line="55" column="86" />
+        <mark key="]" line="55" column="86" />
+        <mark key="^" line="55" column="82" />
+        <mark key="." line="55" column="86" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498789329673">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -226,62 +232,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJtb2JpbGUiOiBbIjE3Njg4ODY3OTA3Il0sCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9hY2Nlc3NfdG9rZW4oc2VsZik6CiAgICAgICAgdXJsID0gZiIiImh0dHA6Ly8xMjcuMC4wLjE6ODg4OC9mcm9udC9vYXV0aFNlcnZpY2UvZ2V0QWNjZXNzVG9rZW4/YXBwSWQ9MDAwMDAwJnJlcXVlc3RJZD17cmVxdWVzdElkfSIiIgogICAgICAgIHByaW50KHVybCkKICAgICAgICBoZWFkZXJzID0gewogICAgICAgICAgICAjICJzdXBwbGllcklkIjogIjIiCiAgICAgICAgfQoKICAgICAgICBjb2RlID0gc2VsZi50ZXN0X2dldF9jb2RlKCkKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAiY29kZSI6IGNvZGUsCiAgICAgICAgICAgICJhcHBTZWNyZXQiOiAiIgogICAgICAgIH0KCiAgICAgICAgaW1wb3J0IHRpbWUKICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCiAgICAgICAgcmVzcCA9IHJlcXVlc3RzLmdldCh1cmwsIHBhcmFtcz1kYXRhLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgZW5kID0gdGltZS50aW1lKCkKICAgICAgICBwcmludChlbmQgLSBzdGFydCkKICAgICAgICBwcmludChyZXNwLnRleHQpCiAgICAgICAgcmV0dXJuIHJlc3AudGV4dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgIm1zZ0lkIjogIjEzMzk0OCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFwcFNlY3JldCI6ICIiCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>688867907</text>
+        <text>000</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFwcFNlY3JldCI6ICIiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>from PyQt5 import QtCore, QtGui, uic
-
-uiFile = &quot;&quot;
-
-Ui_MainWindow, QtBaseClass = uic.loadUiType(uiFile)
-import sys
-from PyQt5.QtWidgets import QApplication, QWidget
-
-
-if __name__ == '__main__':
-
-    app = QApplication(sys.argv)
-
-    w = QWidget()
-    w.resize(250, 150)
-    w.move(300, 300)
-    w.setWindowTitle('Simple')
-    w.show()
-    c
-    sys.exit(app.exec_())</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVybCI6ICJodHRwOi8vamQuY29tL2pkP2E9YiIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNsYXNzIE15QXBwKFF0R3VpLlFNYWkp</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBmb3IgaWR4IGluIHJhbmdlKDAsIDEpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFB5UXQ1Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RJZCA9IHV1aWQudXVpZDEoKS5fX3N0cl9fKCkucmVwbGFjZSgiLSIsICIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKHNoLm5jb2xzKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBhcmFtcyI6IHsieXptIjogcmFuZG9tLnJhbmRpbnQoMTAwMCwgOTk5OSkuX19zdHJfXygpLCAidGltZSI6MzExfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZW5weXhsCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgKaW1wb3J0IGNtYXRoCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>, {
-            &quot;content &quot;: &quot;短信内容(必选)&quot;,
-            &quot;phone &quot;: &quot;电话号码，若多个号码用”,”隔开(必选)&quot;
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">aGVhZGVycyA9IHsKICAgICMgInN1cHBsaWVySWQiOiAiMiIKfQoKZGF0YSA9IHsKICAgICJtb2JpbGUiOiBbIjE3NjEyMDc4NTAwIl0sCiAgICAidGVtcGxhdGVJZCI6IDIyLAogICAgInBhcmFtcyI6IHsieXptIjogcmFuZG9tLnJhbmRpbnQoMTAwMCwgOTk5OSkuX19zdHJfXygpLCAidGltZSI6MzExfSwKICAgICJzaWduTmFtZSI6ICK98LLGu6XBqiIKfQoKaW1wb3J0IHRpbWUKc3RhcnQgPSB0aW1lLnRpbWUoKQpyZXNwID0gcmVxdWVzdHMucG9zdCh1cmwsIGpzb249ZGF0YSwgaGVhZGVycz1oZWFkZXJzKQplbmQgPSB0aW1lLnRpbWUoKQpwcmludChlbmQtc3RhcnQpCnByaW50KHJlc3AudGV4dCkK</text>
       </register>
       <register name="-" type="4">
-        <text>688867907</text>
+        <text>000</text>
       </register>
     </registers>
     <search>
