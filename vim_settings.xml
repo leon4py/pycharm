@@ -14,7 +14,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516172277129">
+      <file name="/Python Console" timestamp="1516674119200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516172267630">
@@ -156,11 +156,11 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="50" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/oauth_test.py" timestamp="1516174462546">
-        <mark key="[" line="55" column="86" />
-        <mark key="]" line="55" column="86" />
-        <mark key="^" line="55" column="82" />
-        <mark key="." line="55" column="86" />
+      <file name="$USER_HOME$/PycharmProjects/load_ali/oauth_test.py" timestamp="1516674212746">
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="27" />
+        <mark key="^" line="68" column="27" />
+        <mark key="." line="68" column="27" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498789329673">
         <mark key="[" line="22" column="0" />
@@ -242,8 +242,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG1hdGgKaW1wb3J0IGNtYXRoCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB1cmwgPSBmIiIiaHR0cDovLzEwLjEwLjcuMTI6ODk5OS9vdXR0ZXIvc21zU2VydmljZS9zZW5kP2FwcElkPTAwMDAwMCZyZXF1ZXN0SWQ9e3JlcXVlc3RJZH0iIiIK</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUKc3RhcnQgPSB0aW1lLnRpbWUoKQpyZXNwID0gcmVxdWVzdHMucG9zdCh1cmwsIGpzb249ZGF0YSwgaGVhZGVycz1oZWFkZXJzKQplbmQgPSB0aW1lLnRpbWUoKQpwcmludChlbmQtc3RhcnQpCnByaW50KHJlc3AudGV4dCkKCmltcG9ydCBtYXRoCmltcG9ydCBjbWF0aAo=</text>
@@ -270,7 +270,7 @@
         <text encoding="base64">ICAgICAgICAgICAgImFwcFNlY3JldCI6ICIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>get</text>
       </register>
     </registers>
     <search>
