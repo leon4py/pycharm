@@ -77,6 +77,12 @@
         <mark key="." line="44" column="59" />
         <mark key="^" line="44" column="59" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" timestamp="1519895087495">
+        <mark key="[" line="7" column="95" />
+        <mark key="]" line="9" column="121" />
+        <mark key="^" line="9" column="121" />
+        <mark key="." line="9" column="121" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/aws/.gitignore" timestamp="1509969074821">
         <mark key="[" line="105" column="0" />
       </file>
@@ -120,7 +126,6 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/epet_buy2.py" timestamp="1517637539506" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498792936487">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="67" column="0" />
@@ -254,8 +259,8 @@
       <register name="1" type="2">
         <text encoding="base64">Z29vZHNfaWQgPSAiMTg5Nzk0Igo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z29vZHNfaWQgPSAiMTg5Nzk0Igo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3VybCA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGdvb2RzX2lkID0gIjE4OTc5NCIK</text>
@@ -282,7 +287,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">Y3VybCA=</text>
       </register>
     </registers>
     <search>
