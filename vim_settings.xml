@@ -9,11 +9,6 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/RedisTest.java" timestamp="1499242057591">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1517636760284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,21 +27,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/Loggers.java" timestamp="1498790863083">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/sso/a.py" timestamp="1501816865385">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="4532" />
         <mark key="." line="30" column="4532" />
         <mark key="^" line="30" column="4532" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/banner.txt" timestamp="1499223262086">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/login.js" timestamp="1504491283781">
         <mark key="[" line="32" column="41" />
@@ -66,22 +51,18 @@
         <mark key="." line="116" column="16" />
         <mark key="^" line="116" column="16" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/AwsHandlerControllerTest.java" timestamp="1499134994936">
-        <mark key="[" line="6" column="66" />
-        <mark key="]" line="6" column="66" />
-        <mark key="." line="6" column="66" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/config/WebConfig.java" timestamp="1499246942550">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="59" />
         <mark key="." line="44" column="59" />
         <mark key="^" line="44" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" timestamp="1519895752492">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" timestamp="1519897196473">
+        <mark key="'" line="18" column="5" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/aws/.gitignore" timestamp="1509969074821">
         <mark key="[" line="105" column="0" />
@@ -92,18 +73,8 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/foresee/ftcsp/workflow/auto/model/WfcTask.java" timestamp="1499409294826">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1499058126353">
         <mark key="[" line="110" column="54" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/JettySpringEmbeddedContainer.java" timestamp="1498788960456">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/load_ali/epet.py" timestamp="1517636781865">
         <mark key="[" line="24" column="17" />
@@ -126,26 +97,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/ApiFactory.java" timestamp="1498792936487">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/sso/login.py" timestamp="1502363494287">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/misc/NetUtils.java" timestamp="1498789235594">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/pom.xml" timestamp="1498816197574">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1498728847054">
         <mark key="[" line="87" column="4" />
@@ -168,20 +124,10 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="50" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/oauth_test.py" timestamp="1516781620670">
+      <file name="$USER_HOME$/PycharmProjects/load_ali/oauth_test.py" timestamp="1519897188738">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1498789329673">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1498816365892">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1499242122508">
         <mark key="[" line="64" column="26" />
@@ -201,32 +147,17 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="14" column="24" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/internal/WFApi.java" timestamp="1498793763028">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/load_ali/epet_buy.py" timestamp="1517637922954">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/pom.xml" timestamp="1498789748277">
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/sso/accessSecurity.py" timestamp="1506068872862">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="72" />
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1499245650487">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/aws/mchuan.py" timestamp="1514126163235">
         <mark key="[" line="10" column="25" />
@@ -251,6 +182,7 @@
       <jump line="76" column="12" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" />
       <jump line="63" column="71" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/manual/mapper/WfcVarExtMapper.xml" />
       <jump line="154" column="44" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
+      <jump line="18" column="5" filename="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -260,7 +192,7 @@
         <text encoding="base64">Z29vZHNfaWQgPSAiMTg5Nzk0Igo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>tate</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGdvb2RzX2lkID0gIjE4OTc5NCIK</text>
@@ -287,7 +219,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>tate</text>
       </register>
     </registers>
     <search>
