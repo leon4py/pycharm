@@ -57,12 +57,10 @@
         <mark key="." line="44" column="59" />
         <mark key="^" line="44" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" timestamp="1519961012710">
-        <mark key="'" line="18" column="5" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/load_ali/dinvoke.py" timestamp="1519962469374">
+        <mark key="[" line="9" column="110" />
+        <mark key="]" line="9" column="110" />
+        <mark key="." line="9" column="110" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/aws/.gitignore" timestamp="1509969074821">
         <mark key="[" line="105" column="0" />
@@ -189,37 +187,37 @@
         <text encoding="base64">IyB1cmwgPSBmIiIiaHR0cDovLzEwLjEwLjcuMTI6ODk5OS9vdXR0ZXIvc21zU2VydmljZS9zZW5kP2FwcElkPTAwMDAwMCZyZXF1ZXN0SWQ9e3JlcXVlc3RJZH0iIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ1c2VySWQiOiAiMDAwMjQwNjlkMzk0NGFmMDhjNTMzZDczMmRiZTVlNmIiLAo=</text>
+        <text encoding="base64">ICAgICMgIm5hbWUiOiAiyc/JvbTywM+7oiIsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>00024069d3944af08c533d732dbe5e6b</text>
+        <text>token={token}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z29vZHNfaWQgPSAiMTg5Nzk0Igo=</text>
+        <text encoding="base64">ICAgICMgInJlZGlyZWN0X3VyaSI6ICJodHRwOi8vamQuY29tP2FiPWMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdvb2RzX2lkID0gIjE4OTc5NCIK</text>
+        <text encoding="base64">ICAgICJ1c2VySWQiOiAiMDAwMjQwNjlkMzk0NGFmMDhjNTMzZDczMmRiZTVlNmIiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBnb29kc19pZAo=</text>
+        <text encoding="base64">Z29vZHNfaWQgPSAiMTg5Nzk0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2lsbCgpCg==</text>
+        <text encoding="base64">ICAgIGdvb2RzX2lkID0gIjE4OTc5NCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGtpbGwoZ29vZHNfaWQpOgo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBnb29kc19pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoaGFzaCkK</text>
+        <text encoding="base64">a2lsbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmludChyZXNwLnRleHQpCgpmcm9tIHB5cXVlcnkgIGltcG9ydCBQeVF1ZXJ5IGFzIHBxCmQgPSBwcShyZXNwLnRleHQpCgpwcmludChkKCcubm9ybXMtYScpKQo=</text>
+        <text encoding="base64">ZGVmIGtpbGwoZ29vZHNfaWQpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHB5cXVlcnkK</text>
+        <text encoding="base64">cHJpbnQoaGFzaCkK</text>
       </register>
       <register name="-" type="4">
-        <text>00024069d3944af08c533d732dbe5e6b</text>
+        <text>token={token}</text>
       </register>
     </registers>
     <search>
